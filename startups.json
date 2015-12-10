@@ -36,6 +36,18 @@
         "twitter": "https://twitter.com/La_BQC"
       }
     }, 
+     {
+      "name": "PopUp Immo",
+      "website": "popupimmo.com",
+      "status": "active",
+      "season": "7",
+      "pitch": "PopUp Immo is the #1 marketplace dedicated exclusively to the rental of short-term commercial real estate. PopUp Immo revolutionizes short-term commercial space rental by allowing businesspeople, brands, designers and e-commerce companies to rent pop-up stores, showrooms or other spaces for as little as one day or one week, to upwards of several months, in complete simplicity and without a long-term commitment.",
+      "connect": {
+        "mail": "contact@popupimmo.com",
+        "facebook": "https://www.facebook.com/PopUpImmo?fref=ts",
+        "twitter": "https://twitter.com/PopUpImmo"
+      }
+    },  
     {
       "name": "Filoute",
       "website": "filoute.com",
