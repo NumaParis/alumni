@@ -13,6 +13,18 @@
       }
     },
     {
+      "name": "Coursierprivé",
+      "website": "coursierprive.com",
+      "status": "active",
+      "season": "7",
+      "pitch": "Coursier Privé is a B2B urban delivery service, 50% cheaper than traditional couriers, completely transparent, empowering outstanding delivery experience. Our technology enhances impulsion buying by delivering all parcels the quickest way possible, at the best price, maximising merchant's ROI, minimising end-user's click-to-possession, and reducing gas emissions of drivers.",
+      "connect": {
+        "mail": "contact@coursierprive.com",
+        "facebook": "https://www.facebook.com/coursierprivecom?fref=ts",
+        "twitter": "https://twitter.com/coursier_prive",
+      }
+    },
+      {
       "name": "FoodMeUp",
       "website": "www.foodmeup.net",
       "status": "active",
