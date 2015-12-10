@@ -36,6 +36,18 @@
         "twitter": "https://twitter.com/filoute_com"
       }
     },
+    {
+      "name": "Fretx",
+      "website": "fretx.rocks",
+      "status": "active",
+      "season": "7",
+      "pitch": "FRETX is a smart device that attaches to your guitar fretboard and transforms music notation into light patterns directly on your fretboard, making the learning experience easier and more dynamic.",
+      "connect": {
+        "mail": "hello@fretx.rocks",
+        "facebook": "https://www.facebook.com/fretxRocks?fref=ts",
+        "twitter": "https://twitter.com/GuitarFRETX"
+      }
+    },  
       {
       "name": "FoodMeUp",
       "website": "www.foodmeup.net",
