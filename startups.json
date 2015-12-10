@@ -24,6 +24,18 @@
         "twitter": "https://twitter.com/coursier_prive"
       }
     },  
+      {
+      "name": "La Boite qui Cartonne",
+      "website": "laboitequicartonne.fr",
+      "status": "active",
+      "season": "7",
+      "pitch": "La Boite Qui Cartonne is a service which takes care of the belongings cluttering your flat in a simple manner: for 6€ per month, La BQC will go to your home along with large boxes (60x40x40xm) and will take them back, once you've finished placing your things, to it's secured storage facilities and keep them for the timespan of your choice. Clothes, tools, books,... you can then ask to get your things back anytime and anywhere you wish with ease.",
+      "connect": {
+        "mail": "contact@laboitequicartonne.fr",
+        "facebook": "https://www.facebook.com/laboitequicartonne",
+        "twitter": "https://twitter.com/La_BQC"
+      }
+    }, 
     {
       "name": "Filoute",
       "website": "filoute.com",
