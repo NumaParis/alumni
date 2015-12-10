@@ -23,6 +23,18 @@
         "facebook": "https://www.facebook.com/coursierprivecom?fref=ts",
         "twitter": "https://twitter.com/coursier_prive"
       }
+    },  
+    {
+      "name": "Filoute",
+      "website": "filoute.com/",
+      "status": "active",
+      "season": "7",
+      "pitch": "Filoute provides craft tutorials to help you succeed: you can learn when, where and how you like. Enjoy classes anytime from the convenience of your home, watch them at your preferred pace, revisit your favorite concept with just a click, ask your expert instructors questions, and learn easily with videos that walk you step-by-step through gaining skills.",
+      "connect": {
+        "mail": "founders@filoute.com",
+        "facebook": "https://www.facebook.com/Filoute-317659605091302/",
+        "twitter": "https://twitter.com/filoute_com"
+      }
     },
       {
       "name": "FoodMeUp",
