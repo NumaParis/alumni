@@ -1,15 +1,15 @@
 [
 
       {
-      "name": "Sentimy",
-      "website": "sentimy.com",
+      "name": "Supermood",
+      "website": "https://www.supermood.co/#!/",
       "status": "active",
       "season": "7",
-      "pitch": "Giving your employees a way to speak up while improving your company's culture!",
+      "pitch": "Supermood makes your company culture awesome! By asking three questions a week, we engage your employees and tell you what really happens in your company. By combining HR research and machine learning, we ask the right questions at the right time, and give you actionable advice to make everyone engaged.",
       "connect": {
-        "mail": "us@sentimy.com",
-        "facebook": "https://www.facebook.com/SentimyOfficial",
-        "twitter": "https://twitter.com/SentimyOfficial"
+        "mail": "hello@supermood.co",
+        "facebook": "https://www.facebook.com/SupermoodTeam/?fref=ts",
+        "twitter": "https://twitter.com/SupermoodTeam"
       }
     },
     {
