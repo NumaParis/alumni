@@ -73,7 +73,7 @@
     },  
       {
       "name": "FoodMeUp",
-      "website": "www.foodmeup.net",
+      "website": "foodmeup.net",
       "status": "active",
       "season": "7",
       "pitch": "FoodMeUp is the first SaaS dedicated to recipe management. It allows professionals of the food industry to organize their recipes (collaborative work, versioning, tree structure), manage their production (merge recipes, retrieve all ingredients, manage stocks and send orders, print multiple technical sheets) and access analytics (costs,profitability, etc.)",
@@ -110,7 +110,7 @@
     },
     {
       "name": "Budeal",
-      "website": "www.budeal.com",
+      "website": "budeal.com",
       "status": "active",
       "season": "7",
       "pitch": "A simple and friendly garage sale on your smartphone! Budeal is a mobile app that allows you to buy and sell  products quickly and easily. Budeal reinvents classified ads using smartphones and social networks to simplify the sale of products and to bring more trusts in transactions.",
