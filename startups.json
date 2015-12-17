@@ -385,7 +385,8 @@
     "connect": {
       "mail": "contact@drust.io",
       "facebook": "https://www.facebook.com/meetdrust",
-      "twitter": "http://twitter.com/meetdrust"
+      "twitter": "http://twitter.com/meetdrust",
+      "linkedin": "https://www.linkedin.com/company/drust-sas"
     }
   },
   {
@@ -410,7 +411,8 @@
     "connect": {
       "mail": "founders@agriconomie.com",
       "facebook": "https://www.facebook.com/Agriconomie/timeline",
-      "twitter": "https://twitter.com/agriconomie"
+      "twitter": "https://twitter.com/agriconomie",
+      "linkedin": "https://www.linkedin.com/company/agriconomie-france"
     }
   },
   {
