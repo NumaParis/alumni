@@ -995,7 +995,7 @@
   },
   {
     "name": "WeCook",
-    "website": "www.wecook.fr",
+    "website": "wecook.fr",
     "status": "active",
     "season": "2",
     "pitch": "WeCook help you to plan your family week of meals and grocery list with highly personalized recommendation",
@@ -1007,10 +1007,10 @@
   },
   {
     "name": "Bankin'",
-    "website": "www.bankin.com",
+    "website": "bankin.com",
     "status": "active",
     "season": "1",
-    "pitch": "La meilleure App pour gérer ses finances.",
+    "pitch": "Take care of your money: all your bank accounts, in real-time, in one single app.",
     "connect": {
       "facebook": "https://www.facebook.com/ilovebankin",
       "twitter": "https://twitter.com/bankin"
@@ -1018,7 +1018,7 @@
   },
   {
     "name": "Beansight",
-    "website": "www.beansight.com",
+    "website": "beansight.com",
     "status": "dead",
     "season": "1",
     "pitch": "A social network dedicated to predictions. Users can prove their expertise in dedicated fields thanks to their accuracy in forecast.",
@@ -1030,7 +1030,7 @@
   },
   {
     "name": "Dabla",
-    "website": "www.dabla.com",
+    "website": "dabla.com",
     "status": "active",
     "season": "1",
     "pitch": "Dabla keeps you connected with your friends & family. Cross-device apps as easy to use as SMS and especially made for groups.",
@@ -1045,7 +1045,7 @@
     "website": "doctrackr.com",
     "status": "exited",
     "season": "1",
-    "pitch": "docTrackr helps businesses keep their documents safe and under control, wherever they're stored, whomever they're shared with.",
+    "pitch": "docTrackr helps businesses keep their documents safe and secure, wherever they're stored, whomever they're shared with. DocTrackr was acquired by Intralinks in 2014.",
     "connect": {
       "mail": "contact@doctrackr.com",
       "facebook": "https://www.facebook.com/doctrackrapp",
@@ -1058,7 +1058,7 @@
     "website": "",
     "status": "dead",
     "season": "1",
-    "pitch": "",
+    "pitch": "Itipic offers a generic basket and private interface store and share product visuals with semantic information linked to their original websites.",
     "connect": {}
   },
   {
@@ -1066,7 +1066,7 @@
     "website": "madebykawet.com",
     "status": "exited",
     "season": "1",
-    "pitch": "All-in-one solution to create & manage native apps for your enterprise.",
+    "pitch": "All-in-one solution to create & manage native apps for your enterprise. Acquired by Phenix Groupe in 2013.",
     "connect": {
       "mail": "hello@madebykawet.com",
       "facebook": "http://facebook.com/madebykawet",
@@ -1077,10 +1077,10 @@
   },
   {
     "name": "Mesagraph",
-    "website": "www.mesagraph.com",
+    "website": "mesagraph.com",
     "status": "exited",
     "season": "1",
-    "pitch": "Mesagraph unlocks the value contained in online conversations.",
+    "pitch": "Mesagraph is a service that builds bundles of information from Social Media which are relevant and useful for its users. Mesagraph is now part of Twitter. ",
     "connect": {
       "facebook": "http://www.facebook.com/Mesagraph",
       "twitter": "http://www.twitter.com/Mesagraph"
@@ -1088,18 +1088,18 @@
   },
   {
     "name": "P1Security",
-    "website": "www.p1sec.com",
+    "website": "p1sec.com",
     "status": "active",
     "season": "1",
-    "pitch": "Security for Mobile, Telecom and Core Networks.",
+    "pitch": "Software editor and SaaS provider for security solutions to detect weaknesses in the telecom Core Network, monitor attacks and steer attackers",
     "connect": {}
   },
   {
     "name": "PrepMyFuture // Everlearn",
-    "website": "www.everlearn-technology.com",
+    "website": "everlearn-technology.com",
     "status": "active",
     "season": "1",
-    "pitch": "adaptive learning technology",
+    "pitch": "Everlearn makes great adaptive e-learning products with your content.",
     "connect": {
       "mail": "contact@prepmyfuture.com",
       "facebook": "http://facebook.com/prepmyfuture",
@@ -1112,7 +1112,7 @@
     "website": "skerou.com",
     "status": "active",
     "season": "1",
-    "pitch": "Je suis une appli mobile gratuite pour préparer vos courses et bénéficier de promotions exclusives, grâce à l'analyse de votre ticket de caisse de supermarché.",
+    "pitch": "Skerou is a free mobile app that helps you prepare and benefit of exclusive promotions thanks to the analysis of your supermarket receipt",
     "connect": {
       "mail": "contact@skerou.com",
       "facebook": "http://facebook.com/skerou",
@@ -1123,7 +1123,7 @@
   },
   {
     "name": "Studyka",
-    "website": "www.studyka.com",
+    "website": "studyka.com",
     "status": "active",
     "season": "1",
     "pitch": "Studyka organizes student challenges across the globe to connect student teams with companies and identify the leaders of tomorrow!",
@@ -1137,7 +1137,7 @@
     "website": "",
     "status": "dead",
     "season": "1",
-    "pitch": "",
+    "pitch": "Zifiz provides a retail tool for consumers to purchase, or find nearby products in real-time.",
     "connect": {}
   }
 ]
