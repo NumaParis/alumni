@@ -213,6 +213,17 @@
         "twitter": "https://twitter.com/kwalitoApp"
       }
     },
+       {
+      "name": "Vocal Apps",
+      "website": "vocal-apps.com",
+      "status": "active",
+      "season": "7",
+      "pitch": "Ironman, Knight Rider or Star Trek, talking with an artificial intelligence that is here to assist us will be such a huge progress in our lives. Sadly, we are not there yet. Today's tools to build smart voice interfaces are all based on an obscure and very limited XML syntax. Our solution allows developers to create vocal applications 10 times faster with an incomparable linguistic flexibility. We already have renowned customers from smart home, automotive and robotics industry.",
+      "connect": {
+        "mail": "contact@vocal-apps.com",
+        "facebook": "https://www.facebook.com/VocalApps?fref=ts",
+        "twitter": "https://twitter.com/vocal_apps"
+      }
     {
       "name": "Stride",
       "website": "stride.ai",
