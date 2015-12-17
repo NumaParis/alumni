@@ -311,6 +311,7 @@
           "mail": "",
           "facebook": "https://www.facebook.com/birdlycompany",
           "twitter": "https://twitter.com/getbirdly"
+          "linkedin": "https://www.linkedin.com/company/kokot'"
         }
     },
     {
@@ -369,7 +370,7 @@
     "website": "drust.io",
     "status": "active",
     "season": "6",
-    "pitch": "Drust est l'objet connecté qui vous permet de communiquer avec votre voiture pour comprendre l'origine des pannes et vous redirige vers un garagiste de confiance.",
+    "pitch": "Become a SuperDriver, confident, open and connected. Drust is a new dongle on the OBD socket of the car and bluetooth-connected to a smartphone via a community app. It brings users individualized advice and solution to drive smarter and save money on gas and repair.",
     "connect": {
       "mail": "contact@drust.io",
       "facebook": "https://www.facebook.com/meetdrust",
@@ -378,11 +379,15 @@
   },
   {
     "name": "Agriconomie",
-    "website": "www.agriconomie.com",
+    "website": "agriconomie.com",
     "status": "active",
     "season": "5",
-    "pitch": "Agriconomie est le premier site de vente en ligne destiné aux achats agricoles.",
-    "connect": {}
+    "pitch": "Agriconomie is a B2B market place specialised in the agricultural sector. It creates a more efficient bridge between farmers and their products and inputs suppliers.",
+    "connect": {
+          "mail":"founders@agriconomie.com",
+          "facebook": "https://www.facebook.com/Agriconomie/timeline",
+          "twitter":"https://twitter.com/agriconomie"
+    }
   },
   {
     "name": "Artips",
