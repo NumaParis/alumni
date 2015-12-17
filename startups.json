@@ -323,7 +323,7 @@
         "connect": {
           "mail": "contact@sharette.fr",
           "facebook": "https://www.facebook.com/sharette.fr",
-          "twitter": "http://twitter.com/sharettefr"
+          "twitter": "http://twitter.com/sharettefr",
           "linkedin": "https://www.linkedin.com/company/sharette"
         }
     },
@@ -336,7 +336,7 @@
       "connect": {
         "mail": "hello@nunki.co",
         "facebook": "https://www.facebook.com/NunkiApp"
-        "twitter": "https://twitter.com/NunkiApp"
+        "twitter": "https://twitter.com/NunkiApp",
         "linkedin": "https://www.linkedin.com/company/nunki"
       }
     },
@@ -348,8 +348,8 @@
     "pitch": "Pulpix is a video technology that displays interactive bonus content in real-time within your video, enhancing the experience for your audience and boosting your revenue",
     "connect": {
       "mail": "hello@pulpix.co",
-      "facebook": "https://www.facebook.com/Pulpix-399244810197662/"
-      "twitter": "http://twitter.com/pulpix"
+      "facebook": "https://www.facebook.com/Pulpix-399244810197662/",
+      "twitter": "http://twitter.com/pulpix",
       "linkedin": "https://www.linkedin.com/company/pulpix"
     }
   },
@@ -358,7 +358,7 @@
     "website": "sharepayers.com",
     "status": "active",
     "season": "6",
-    "pitch": "SharePay is an app that turns payment into a collaborative and sharing moment. It allows you to invite your friends, parents, co-workers, roomies or sweetheart to share in your payment to complete a purchase, all together, in real-time and without advancing money",
+    "pitch": "SharePay is an app that turns payment into a collaborative and sharing moment. It allows you to invite your friends, parents, co-workers, roomies or sweetheart to share in your payment to complete a purchase, all together, in real-time and without advancing money.",
     "connect": {
       "mail": "contact@sharepay.fr",
       "facebook": "https://www.facebook.com/SharePay",
