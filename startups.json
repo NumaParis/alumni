@@ -765,7 +765,7 @@
   },
   {
     "name": "Jellynote",
-    "website": "www.jellynote.com",
+    "website": "jellynote.com",
     "status": "active",
     "season": "3",
     "pitch": "Jellynote is a social platform for musicians to help them play and learn music. You can read sheet music online, enrich them with videos and share to your friends.",
@@ -793,7 +793,7 @@
   },
   {
     "name": "Voice Polls ex Poutsch",
-    "website": "https://voicepolls.com/",
+    "website": "voicepolls.com",
     "status": "active",
     "season": "3",
     "pitch": "Poutsch facilitates the way we collect, express and make sense of opinions. The team is now working on Voice Polls that allows businesses to easily have answers from their consumers before taking decisions.",
@@ -865,7 +865,7 @@
   },
   {
     "name": "HereWeDate",
-    "website": "",
+    "website": "HereWeDate is a fun way to meet new people: play the game! ",
     "status": "dead",
     "season": "2",
     "pitch": "",
@@ -876,7 +876,7 @@
     "website": "www.infinit.io",
     "status": "active",
     "season": "2",
-    "pitch": "A fast, elegant and unlimited file transfer application for creative people.",
+    "pitch": "The mobile and desktop app that lets you send files of unlimited size.",
     "connect": {
       "mail": "contact@infinit.io",
       "facebook": "https://www.facebook.com/infinitdotio",
@@ -890,7 +890,7 @@
     "website": "www.loungeup.com",
     "status": "active",
     "season": "2",
-    "pitch": "Mobile Guest Relationship Management Platform for the hospitality industry",
+    "pitch": "LoungeUp is a solution that allows hoteliers to interact with their guests before, during, and after their stay, improving revenue, guest satisfaction and knowledge of their consumer habits.",
     "connect": {
       "mail": "contact@loungeup.com",
       "facebook": "http://facebook.com/loungeup",
@@ -912,7 +912,7 @@
   },
   {
     "name": "Onefeat",
-    "website": "",
+    "website": "Onefeat is a social game where people achieve missions and earn points according to what they do in real life.",
     "status": "dead",
     "season": "2",
     "pitch": "",
@@ -920,10 +920,10 @@
   },
   {
     "name": "Pictarine",
-    "website": "www.pictarine.com",
+    "website": "pictarine.com",
     "status": "active",
     "season": "2",
-    "pitch": "Pictarine aggregates your photos from your social networks",
+    "pitch": "Pictarine includes all the photos of your social networks in one app. A great experience to enjoy all your photos and those of your friends posted on Facebook, Twitter, Instagram, Flickr, Tumblr... ",
     "connect": {
       "mail": "contact@pictarine.com",
       "facebook": "http://facebook.com/pictarine",
@@ -934,10 +934,10 @@
   },
   {
     "name": "Pili Pop",
-    "website": "www.pilipop.com",
+    "website": "pilipop.com",
     "status": "active",
     "season": "2",
-    "pitch": "We create stimulating and engaging apps for youngsters to help them find the fun in learning languages.",
+    "pitch": "Pili Pop creates stimulating and engaging apps for youngsters to help them find the fun in learning languages.",
     "connect": {
       "mail": "hello@pilipop.com",
       "facebook": "http://facebook.com/pilipoplabs",
@@ -964,7 +964,7 @@
     "website": "siz.io",
     "status": "active",
     "season": "2",
-    "pitch": "Siz.io. Social bookmarking for videos. Sponsored content campaigns for brands.",
+    "pitch": "Your source of the Internet best content.",
     "connect": {
       "mail": "contact@siz.io",
       "facebook": "http://facebook.com/siz.io",
@@ -978,15 +978,15 @@
     "website": "",
     "status": "dead",
     "season": "2",
-    "pitch": "",
+    "pitch": "Skimm!, a disruptive, entirely software-based mobile payment system, enables its users to pay in participating stores, redeem promotional coupons and process user-to-user transactions.",
     "connect": {}
   },
   {
-    "name": "TVShow Time (Toze Labs SAS)",
-    "website": "www.tvshowtime.com",
+    "name": "TVShow Time",
+    "website": "tvshowtime.com",
     "status": "active",
     "season": "2",
-    "pitch": "TVShow Time lets you track, comment and watch your TV shows.",
+    "pitch": "Following the news of TV series was an ordeal. TVShow Time makes this easy by providing a single place for all the news, information and fan arts related to the series that you follow. ",
     "connect": {
       "mail": "founders@tvshowtime.com",
       "facebook": "www.facebook.com/tvshowtime",
