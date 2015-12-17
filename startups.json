@@ -401,6 +401,19 @@
     }
   },
   {
+        "name": "Tiller Systems",
+        "website": "tillersystems.com",
+        "status": "active",
+        "season": "6",
+        "pitch": "TILL By Tiller Systems is a turnkey mobile point-of-sale solution designed for bars and restaurants. It combines an intuitive iPad-based oredering platform with an innovative web-based back-office in which restaurant professionals can access management tools and analytics in real time.",
+        "connect": {
+          "mail": "",
+          "facebook": "https://www.facebook.com/TillPOS",
+          "twitter": "https://twitter.com/tillersystems,
+          "linkedin": "https://www.linkedin.com/company/tiller-systems"
+        }
+    },
+  {
     "name": "Artips",
     "website": "artips.fr",
     "status": "active",
