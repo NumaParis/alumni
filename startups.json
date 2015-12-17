@@ -156,6 +156,17 @@
         "facebook": "https://www.facebook.com/pages/Les-Petites-Tables/1409069196023392"
       }
     },
+      {
+      "name": "Read",
+      "website": "read.cx",
+      "status": "active",
+      "season": "7",
+      "pitch": "We change the way people read, retain and work on written content on mobile. Today, readers enjoy our app to read their own ePub files. We then will make it easy to access and open every file that needs to be read on mobile. And from there, Read offers the best experience.",
+      "connect": {
+        "mail": "hello@read.cx",
+        "twitter": "https://twitter.com/readcx"
+      }
+    },
     {
       "name": "Gorgias",
       "website": "gorgias.io",
