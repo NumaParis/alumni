@@ -581,7 +581,7 @@
   },
   {
     "name": "Darjeelin",
-    "website": "www.darjeelin.com",
+    "website": "darjeelin.com",
     "status": "exited",
     "season": "4",
     "pitch": "The crowdsourced travel agency helping you to save loads of time and tons of money.",
@@ -594,7 +594,7 @@
   },
   {
     "name": "Decovery",
-    "website": "www.decovery.fr",
+    "website": "decovery.fr",
     "status": "active",
     "season": "4",
     "pitch": "Decovery is a place where experts and home design enthusiasts get together to help you transform your interior. The team is now part of Côtémaisons.",
@@ -619,7 +619,7 @@
   },
   {
     "name": "Lingocracy",
-    "website": "www.lingocracy.com",
+    "website": "lingocracy.com",
     "status": "active",
     "season": "4",
     "pitch": "Lingocracy turns any web article into a personalised language session",
@@ -632,7 +632,7 @@
   },
   {
     "name": "Melusyn",
-    "website": "www.melusyn.com",
+    "website": "melusyn.com",
     "status": "active",
     "season": "4",
     "pitch": "Bring stories to real life. From script to production, work together to build, schedule and manage a story on PC/Mac and mobile.",
@@ -645,7 +645,7 @@
   },
   {
     "name": "Pricing Assistant",
-    "website": "www.pricingassistant.com",
+    "website": "pricingassistant.com",
     "status": "active",
     "season": "4",
     "pitch": "Pricing optimization solution for e-merchants and brands",
@@ -659,7 +659,7 @@
   },
   {
     "name": "Smiirl",
-    "website": "www.smiirl.com",
+    "website": "smiirl.com",
     "status": "active",
     "season": "4",
     "pitch": "Smiirl creates and builds smart objects for businesses and help them to reconnect their social identities to their physical presence.",
@@ -673,7 +673,7 @@
   },
   {
     "name": "SOAP",
-    "website": "www.soapapp.co",
+    "website": "soapapp.co",
     "status": "active",
     "season": "4",
     "pitch": "Soap creates collaborative video souvenir of an event made from participants individuals videos.",
@@ -685,7 +685,7 @@
   },
   {
     "name": "Sportdub",
-    "website": "www.sportdub.com",
+    "website": "sportdub.com",
     "status": "active",
     "season": "4",
     "pitch": "Live sport commentaries by sport fans, for sport fans.",
@@ -697,7 +697,7 @@
   },
   {
     "name": "Zéro-gâchis",
-    "website": "www.zero-gachis.com",
+    "website": "zero-gachis.com",
     "status": "active",
     "season": "4",
     "pitch": "A mobile and web platform where consumers can locate the discount (-30 to 70%) applied on the sell-by date products in the partners supermarkets around them.",
@@ -711,10 +711,10 @@
   },
   {
     "name": "Augment",
-    "website": "agmt.co",
+    "website": "augmentedev.com",
     "status": "active",
     "season": "3",
-    "pitch": "Augment is a mobile app that lets you and your customers visualize your 3D models in Augmented Reality, integrated in real time in their actual size and environment. Augment is the perfect Augmented Reality app to boost your sales and bring your print to life in 3 simple steps.",
+    "pitch": "Augment allows anyone to view instantly a product or object in their home using augmented reality before buying to be sure that it suits them. This removes one of the main obstascles to purchasing online",
     "connect": {
       "mail": "contact@agmt.co",
       "facebook": "https://www.facebook.com/pages/AugmenteDev/190277567680189?ref=hl",
@@ -728,7 +728,7 @@
     "website": "explee.com",
     "status": "active",
     "season": "3",
-    "pitch": "Create amazing animated videos and presentations, engage your audience!",
+    "pitch": "Explee is an online software which allows anyone to create awesome animated videos.",
     "connect": {
       "mail": "contact@explee.com",
       "facebook": "http://facebook.com/explee",
@@ -741,7 +741,7 @@
     "website": "fleex.tv",
     "status": "active",
     "season": "3",
-    "pitch": "We help people get better at English watching the videos they love.",
+    "pitch": "Learn English with your favorite movies and TV shows, choosing from a variety of sources including torrents, downloaded video files, and YouTube videos.",
     "connect": {
       "mail": "contact@fleex.tv",
       "facebook": "https://www.facebook.com/fleextv",
@@ -754,7 +754,7 @@
     "website": "homengo.com",
     "status": "active",
     "season": "3",
-    "pitch": "Home’n’go est un service entièrement gratuit qui centralise toutes les annonces immobilières des principaux sites immobiliers et vous permet, grâce à des données privées et publiques, d’obtenir des informations détaillées et pertinentes concernant la vie autour du logement qui vous intéresse.\nPrécisez vos critères en quelques clics pour faire le tri dans plusieurs millions d’annonces et utilisez votre espace privé pour gérer celles qui vous plaisent, y inviter vos amis ou votre famille pour vous faire aider dans votre recherche, accéder aux informations relatives à la zone du logement et faire le bon choix !",
+    "pitch": "Looking for a new place to live? Find all the real estate listings & information and team up with the relevant people with whom you'll share it on one single platform.",
     "connect": {
       "mail": "contact@homengo.com",
       "facebook": "http://facebook.com/homengofan",
@@ -768,7 +768,7 @@
     "website": "www.jellynote.com",
     "status": "active",
     "season": "3",
-    "pitch": "♬ Everything you need pour play music ♪ A Guitar Hero with real music & real instruments ♬",
+    "pitch": "Jellynote is a social platform for musicians to help them play and learn music. You can read sheet music online, enrich them with videos and share to your friends.",
     "connect": {
       "mail": "support@jellynote.com",
       "facebook": "https://www.facebook.com/JellyNote",
@@ -778,11 +778,11 @@
     }
   },
   {
-    "name": "Lima (ex ForgetBox)",
+    "name": "Lima ",
     "website": "meetlima.com",
     "status": "active",
     "season": "3",
-    "pitch": "Lima is the first product to unify the memory of all your devices. It manages your files instead of Windows, Mac OS or your mobile OS, so all your devices display the same content at all times. \n\nNow, all your PC files are also in your smartphone. Every file you save is saved on all your devices. Re-organize one of your devices, it reorganizes all of them.",
+    "pitch": "Lima is a revolutionary and innovative technology that consolidates all of your content, enabling you to see the same files on all of your devices regardless of operating system or device size. Composed of a smart hardware adapter and a multi-platform app, Lima enables users to easily and seamlessly access their entire digital library from all of their devices, wherever they are.",
     "connect": {
       "mail": "team@meetlima.com",
       "facebook": "https://www.facebook.com/MeetLima",
@@ -792,16 +792,15 @@
     }
   },
   {
-    "name": "Poutsh",
-    "website": "poutsch.com",
+    "name": "Voice Polls ex Poutsch",
+    "website": "https://voicepolls.com/",
     "status": "active",
     "season": "3",
-    "pitch": "Collect, express and make sense of opinions.",
+    "pitch": "Poutsch facilitates the way we collect, express and make sense of opinions. The team is now working on Voice Polls that allows businesses to easily have answers from their consumers before taking decisions.",
     "connect": {
-      "mail": "melchior@poutsch.com",
-      "facebook": "http://facebook.com/poutsch",
-      "twitter": "http://www.twitter.com/poutsch",
-      "angelist": "http://www.angelist.co/poutsch",
+      "mail": "hello@voicepolls.com",
+      "facebook": "https://www.facebook.com/appvoice/?fref=ts",
+      "twitter": "https://twitter.com/app_voice",
       "linkedin": "http://www.linkedin.com/poutsch"
     }
   },
@@ -810,7 +809,7 @@
     "website": "sketchfab.com",
     "status": "active",
     "season": "3",
-    "pitch": "Sketchfab is the web platform to publish your interactive 3D models.",
+    "pitch": "Sketchfab is a web service to publish, share and embed interactive 3D models on web pages, and display them in real-time without a plug-in.",
     "connect": {
       "facebook": "http://facebook.com/sketchfab",
       "twitter": "http://www.twitter.com/sketchfab",
@@ -823,7 +822,7 @@
     "website": "stormz.me",
     "status": "active",
     "season": "3",
-    "pitch": "Meetings are boring and ineffective! \n\nWe design solutions that change the way we work together. Use Stormz (http://stormz.me) to facilitate awesome collaborative workshops and get Deezco (http://deez.co) to gather advices and take decisions that will grow your business.",
+    "pitch": "By combining methodology and digital technology, Stormz designs and facilitates huge collaborative events that engage your teams",
     "connect": {
       "mail": "contact@stormz.me",
       "facebook": "http://facebook.com/stormz.me",
@@ -849,7 +848,7 @@
     "website": "oauth.io",
     "status": "active",
     "season": "3",
-    "pitch": "Webshell enables web and mobile developers to make application faster by saving 80% of time for using APIs. Webshell is the team behind OAuth.io.",
+    "pitch": "Webshell allows companies to create a community of developers around their data or services through a platform for developing web applications and mobile-oriented open innovation. The team is now working on OAuth.io described as the highway to API integration!",
     "connect": {
       "mail": "contact@webshell.io",
       "twitter": "http://twitter.com/OAuth_io",
@@ -861,7 +860,7 @@
     "website": "",
     "status": "active",
     "season": "3",
-    "pitch": "",
+    "pitch": "Whale Street develops a SaaS platform that helps finance professionals take better investment decisions by extracting relevant signals in real time from social media and the web.",
     "connect": {}
   },
   {
