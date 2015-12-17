@@ -25,6 +25,43 @@
         "linkedin": "https://www.linkedin.com/company/3963981"
       }
     },
+        {
+      "name": "Coursierprivé",
+      "website": "coursierprive.com",
+      "status": "active",
+      "season": "7",
+      "pitch": "Coursier Privé is a B2B urban delivery service, 50% cheaper than traditional couriers, completely transparent, empowering outstanding delivery experience. Our technology enhances impulsion buying by delivering all parcels the quickest way possible, at the best price, maximising merchant's ROI, minimising end-user's click-to-possession, and reducing gas emissions of drivers.",
+      "connect": {
+        "mail": "contact@coursierprive.com",
+        "facebook": "https://www.facebook.com/coursierprivecom?fref=ts",
+        "twitter": "https://twitter.com/coursier_prive"
+      }
+    },  
+        {
+      "name": "Filoute",
+      "website": "filoute.com",
+      "status": "active",
+      "season": "7",
+      "pitch": "Filoute provides craft tutorials to help you succeed: you can learn when, where and how you like. Enjoy classes anytime from the convenience of your home, watch them at your preferred pace, revisit your favorite concept with just a click, ask your expert instructors questions, and learn easily with videos that walk you step-by-step through gaining skills.",
+      "connect": {
+        "mail": "founders@filoute.com",
+        "facebook": "https://www.facebook.com/Filoute-317659605091302/",
+        "twitter": "https://twitter.com/filoute_com"
+      }
+    },
+          {
+      "name": "FoodMeUp",
+      "website": "foodmeup.net",
+      "status": "active",
+      "season": "7",
+      "pitch": "FoodMeUp is the first SaaS dedicated to recipe management. It allows professionals of the food industry to organize their recipes (collaborative work, versioning, tree structure), manage their production (merge recipes, retrieve all ingredients, manage stocks and send orders, print multiple technical sheets) and access analytics (costs,profitability, etc.)",
+      "connect": {
+        "mail": "sebastien.vassaux@foodmeup.net",
+        "facebook": "https://www.facebook.com/foodmeup.net",
+        "twitter": "https://twitter.com/foodmeup",
+        "linkedin": "https://www.linkedin.com/company/foodmeup"
+      }
+    },
       {
       "name": "Supermood",
       "website": "supermood.co",
@@ -37,18 +74,6 @@
         "twitter": "https://twitter.com/SupermoodTeam"
       }
     },
-    {
-      "name": "Coursierprivé",
-      "website": "coursierprive.com",
-      "status": "active",
-      "season": "7",
-      "pitch": "Coursier Privé is a B2B urban delivery service, 50% cheaper than traditional couriers, completely transparent, empowering outstanding delivery experience. Our technology enhances impulsion buying by delivering all parcels the quickest way possible, at the best price, maximising merchant's ROI, minimising end-user's click-to-possession, and reducing gas emissions of drivers.",
-      "connect": {
-        "mail": "contact@coursierprive.com",
-        "facebook": "https://www.facebook.com/coursierprivecom?fref=ts",
-        "twitter": "https://twitter.com/coursier_prive"
-      }
-    },  
       {
       "name": "La Boite qui Cartonne",
       "website": "laboitequicartonne.fr",
@@ -83,18 +108,6 @@
         "twitter": "https://twitter.com/PopUpImmo"
       }
     },  
-    {
-      "name": "Filoute",
-      "website": "filoute.com",
-      "status": "active",
-      "season": "7",
-      "pitch": "Filoute provides craft tutorials to help you succeed: you can learn when, where and how you like. Enjoy classes anytime from the convenience of your home, watch them at your preferred pace, revisit your favorite concept with just a click, ask your expert instructors questions, and learn easily with videos that walk you step-by-step through gaining skills.",
-      "connect": {
-        "mail": "founders@filoute.com",
-        "facebook": "https://www.facebook.com/Filoute-317659605091302/",
-        "twitter": "https://twitter.com/filoute_com"
-      }
-    },
       {
       "name": "Kapptivate",
       "website": "kapptivate.com",
@@ -118,19 +131,6 @@
         "twitter": "https://twitter.com/GuitarFRETX"
       }
     },  
-      {
-      "name": "FoodMeUp",
-      "website": "foodmeup.net",
-      "status": "active",
-      "season": "7",
-      "pitch": "FoodMeUp is the first SaaS dedicated to recipe management. It allows professionals of the food industry to organize their recipes (collaborative work, versioning, tree structure), manage their production (merge recipes, retrieve all ingredients, manage stocks and send orders, print multiple technical sheets) and access analytics (costs,profitability, etc.)",
-      "connect": {
-        "mail": "sebastien.vassaux@foodmeup.net",
-        "facebook": "https://www.facebook.com/foodmeup.net",
-        "twitter": "https://twitter.com/foodmeup",
-        "linkedin": "https://www.linkedin.com/company/foodmeup"
-      }
-    },
     {
       "name": "Pandascore",
       "website": "pandascore.co",
