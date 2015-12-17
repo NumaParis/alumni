@@ -454,24 +454,23 @@
     }
   },
   {
-    "name": "Krack",
-    "website": "krack.co",
+    "name": "Krak",
+    "website": "skatekrak.com",
     "status": "active",
     "season": "5",
-    "pitch": "hardware for skateboarders - we enhance the skateboarding experience - making them connect and compete b/w each others.",
+    "pitch": "Krak is a hardware device + app for skaters to allow them to track their sessions, share their tricks, discover news spots in their city",
     "connect": {
       "mail": "hello@krack.co",
-      "facebook": "http://facebook.com/heykrack",
-      "twitter": "http://www.twitter.com/heykrack",
-      "angelist": "http://www.angelist.co/krack"
+      "facebook": "https://www.facebook.com/skatekrak?_rdr=p",
+      "twitter": "https://twitter.com/skatekrak,
     }
   },
   {
     "name": "LocalEyes",
-    "website": "www.localeyes-app.com",
+    "website": "localeyes-app.com",
     "status": "active",
     "season": "5",
-    "pitch": "LOCALEYES is a mobile app that allows anyone to earn MONEY by answering questions and taking pictures in store for brands and retailers.",
+    "pitch": "LocalEyes is a mobile app that allows anyone to earn money on-the-go by collecting information in stores for brands and retailers. Brands and retailers can now check-on any product or service in real-time accross thousands of stores.",
     "connect": {
       "mail": "support@localeyes-app.com",
       "facebook": "https://www.facebook.com/localeyesapp",
@@ -496,7 +495,7 @@
     "website": "www.realytics.io",
     "status": "active",
     "season": "5",
-    "pitch": "Real-time TV ads tracking for online businesses. Realytics break open the TV black box !",
+    "pitch": "Realytics is a real-time TV ads tracking platform for online businesses.Realitycs enables advertisers to precisely analyze the impact and ROI of each TV ad spot and help them to understand their visitors' behavior. ",
     "connect": {
       "mail": "hello@realytics.io",
       "facebook": "http://facebook.com/realyticsio",
@@ -522,7 +521,7 @@
     "website": "takes.io",
     "status": "active",
     "season": "5",
-    "pitch": "A simple way to get feedbacks on your videos, for videomakers, agencies, and production teams.",
+    "pitch": "Takes.io is a video making collaboration platform. It helps producers, directors and others work together on a single platform. It works with YouTube, Vimeo, Dailymotion. Instead of using email chains, you can share a private YouTube video with a client. You can directly comment and annotate videos on Takes.io",
     "connect": {
       "mail": "contact@taketracker.com",
       "facebook": "http://facebook.com/taketracker",
@@ -547,7 +546,7 @@
     "website": "pndrive.com",
     "status": "active",
     "season": "5",
-    "pitch": "Tripndrive enables carsharing between travelers at the airport.\nOwners get a free parking.\nRenters get a car 60% cheaper than traditional car rental.",
+    "pitch": "Tripndrive enables car sharing for travellers. The departing traveller gets the use of a free parking space by renting their car at low cost to another traveller.",
     "connect": {
       "mail": "camille@tripndrive.com",
       "facebook": "http://www.facebook.com/Tripndrive",
