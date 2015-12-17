@@ -865,15 +865,15 @@
   },
   {
     "name": "HereWeDate",
-    "website": "HereWeDate is a fun way to meet new people: play the game! ",
+    "website": "",
     "status": "dead",
     "season": "2",
-    "pitch": "",
+    "pitch": "HereWeDate is a fun way to meet new people: play the game! ",
     "connect": {}
   },
   {
     "name": "Infinit",
-    "website": "www.infinit.io",
+    "website": "infinit.io",
     "status": "active",
     "season": "2",
     "pitch": "The mobile and desktop app that lets you send files of unlimited size.",
@@ -887,7 +887,7 @@
   },
   {
     "name": "LoungeUp",
-    "website": "www.loungeup.com",
+    "website": "loungeup.com",
     "status": "active",
     "season": "2",
     "pitch": "LoungeUp is a solution that allows hoteliers to interact with their guests before, during, and after their stay, improving revenue, guest satisfaction and knowledge of their consumer habits.",
@@ -912,10 +912,10 @@
   },
   {
     "name": "Onefeat",
-    "website": "Onefeat is a social game where people achieve missions and earn points according to what they do in real life.",
+    "website": "",
     "status": "dead",
     "season": "2",
-    "pitch": "",
+    "pitch": "Onefeat is a social game where people achieve missions and earn points according to what they do in real life.",
     "connect": {}
   },
   {
