@@ -121,53 +121,18 @@
         "twitter": "https://twitter.com/La_BQC"
       }
     }, 
-      {
-      "name": "Supermood",
-      "website": "supermood.co",
+        {
+      "name": "Les Petites Tables",
+      "website": "lespetitestables.com",
       "status": "active",
       "season": "7",
-      "pitch": "Supermood makes your company culture awesome! By asking three questions a week, we engage your employees and tell you what really happens in your company. By combining HR research and machine learning, we ask the right questions at the right time, and give you actionable advice to make everyone engaged.",
+      "pitch": "What if you were told that it's possible to eat delicious, local, proper, non-junk food in restaurants without ruining your wallet? What if you could afford to do this on a daily basis? What if you didn't have to read thousand reviews and spend hours to find a new place? Les Petites Tables is about making such experiences possible. Made by a team of two different foodies: a very tall food critique and an always-smiling entrepreneur.",
       "connect": {
-        "mail": "hello@supermood.co",
-        "facebook": "https://www.facebook.com/SupermoodTeam/?fref=ts",
-        "twitter": "https://twitter.com/SupermoodTeam"
+        "mail": "team@lespetitestables.com",
+        "facebook": "https://www.facebook.com/pages/Les-Petites-Tables/1409069196023392"
       }
     },
-      {
-      "name": "Show-Roomer",
-      "website": "show-roomer.com",
-      "status": "active",
-      "season": "7",
-      "pitch": "Show-Roomer is a solution that enables web merchant to touch 2/3 of visitors on their website who whould never have bought without touching or trying the product. Show-Roomer aims to reassure the visitor who is interested by a product, by connecting him with a current customer who has already bought the product. The current customer is going to share his/her experience of the product, in exchange of a commission on the sale made after a demonstration of the product at his house (or phone call).",
-      "connect": {
-        "mail": "hello@show-roomer.com"
-      }
-    }, 
-     {
-      "name": "PopUp Immo",
-      "website": "popupimmo.com",
-      "status": "active",
-      "season": "7",
-      "pitch": "PopUp Immo is the #1 marketplace dedicated exclusively to the rental of short-term commercial real estate. PopUp Immo revolutionizes short-term commercial space rental by allowing businesspeople, brands, designers and e-commerce companies to rent pop-up stores, showrooms or other spaces for as little as one day or one week, to upwards of several months, in complete simplicity and without a long-term commitment.",
-      "connect": {
-        "mail": "contact@popupimmo.com",
-        "facebook": "https://www.facebook.com/PopUpImmo?fref=ts",
-        "twitter": "https://twitter.com/PopUpImmo"
-      }
-    },  
-    {
-      "name": "Pandascore",
-      "website": "pandascore.co",
-      "status": "active",
-      "season": "7",
-      "pitch": "PandaScore aims to become the date provider for e-sports. That means working with the 4 pillars of the (e)sports economy: brands, teams, media and bookmakers. We are delivering a SaaS platform to access the data in a sexy way: clean UX, data visualization, swagger API...",
-      "connect": {
-        "mail": "flav@pandascore.co",
-        "facebook": "https://www.facebook.com/pandascore",
-        "twitter": "https://twitter.com/panda_score"
-      }
-    },
-    {
+        {
       "name": "Le Zeste",
       "website": "lezeste.paris",
       "status": "active",
@@ -179,18 +144,52 @@
         "twitter": "https://twitter.com/lezeste_paris"
       }
     },
-    {
-      "name": "Les Petites Tables",
-      "website": "lespetitestables.com",
+        {
+      "name": "Pandascore",
+      "website": "pandascore.co",
       "status": "active",
       "season": "7",
-      "pitch": "What if you were told that it's possible to eat delicious, local, proper, non-junk food in restaurants without ruining your wallet? What if you could afford to do this on a daily basis? What if you didn't have to read thousand reviews and spend hours to find a new place? Les Petites Tables is about making such experiences possible. Made by a team of two different foodies: a very tall food critique and an always-smiling entrepreneur.",
+      "pitch": "PandaScore aims to become the date provider for e-sports. That means working with the 4 pillars of the (e)sports economy: brands, teams, media and bookmakers. We are delivering a SaaS platform to access the data in a sexy way: clean UX, data visualization, swagger API...",
       "connect": {
-        "mail": "team@lespetitestables.com",
-        "facebook": "https://www.facebook.com/pages/Les-Petites-Tables/1409069196023392"
+        "mail": "flav@pandascore.co",
+        "facebook": "https://www.facebook.com/pandascore",
+        "twitter": "https://twitter.com/panda_score"
       }
     },
-    {
+         {
+      "name": "PopUp Immo",
+      "website": "popupimmo.com",
+      "status": "active",
+      "season": "7",
+      "pitch": "PopUp Immo is the #1 marketplace dedicated exclusively to the rental of short-term commercial real estate. PopUp Immo revolutionizes short-term commercial space rental by allowing businesspeople, brands, designers and e-commerce companies to rent pop-up stores, showrooms or other spaces for as little as one day or one week, to upwards of several months, in complete simplicity and without a long-term commitment.",
+      "connect": {
+        "mail": "contact@popupimmo.com",
+        "facebook": "https://www.facebook.com/PopUpImmo?fref=ts",
+        "twitter": "https://twitter.com/PopUpImmo"
+      }
+    }, 
+          {
+      "name": "Read",
+      "website": "read.cx",
+      "status": "active",
+      "season": "7",
+      "pitch": "We change the way people read, retain and work on written content on mobile. Today, readers enjoy our app to read their own ePub files. We then will make it easy to access and open every file that needs to be read on mobile. And from there, Read offers the best experience.",
+      "connect": {
+        "mail": "hello@read.cx",
+        "twitter": "https://twitter.com/readcx"
+      }
+    },
+          {
+      "name": "Show-Roomer",
+      "website": "show-roomer.com",
+      "status": "active",
+      "season": "7",
+      "pitch": "Show-Roomer is a solution that enables web merchant to touch 2/3 of visitors on their website who whould never have bought without touching or trying the product. Show-Roomer aims to reassure the visitor who is interested by a product, by connecting him with a current customer who has already bought the product. The current customer is going to share his/her experience of the product, in exchange of a commission on the sale made after a demonstration of the product at his house (or phone call).",
+      "connect": {
+        "mail": "hello@show-roomer.com"
+      }
+    }, 
+        {
       "name": "Skippair",
       "website": "skippair.com",
       "status": "active",
@@ -202,15 +201,28 @@
         "twitter": "https://twitter.com/skippair"
       }
     },
-      {
-      "name": "Read",
-      "website": "read.cx",
+       {
+      "name": "Stride",
+      "website": "stride.ai",
       "status": "active",
       "season": "7",
-      "pitch": "We change the way people read, retain and work on written content on mobile. Today, readers enjoy our app to read their own ePub files. We then will make it easy to access and open every file that needs to be read on mobile. And from there, Read offers the best experience.",
+      "pitch":"Stride helps organizations to learn from their data, so that they can put intelligence in everything they do and enable them to get right information to the right people at the right time. Businesses have accumulated huge amount of text across various channels such as social media, surveys, customer feedback and literature. Stride helps organizations to extract knowledge from it, by identifying the five \"W\", and the associated sentiment, from it.",
       "connect": {
-        "mail": "hello@read.cx",
-        "twitter": "https://twitter.com/readcx"
+        "mail": "info@stride.ai",
+        "facebook": "https://www.facebook.com/StrideText",
+        "twitter": "https://twitter.com/tationem"
+      }
+    },  
+      {
+      "name": "Supermood",
+      "website": "supermood.co",
+      "status": "active",
+      "season": "7",
+      "pitch": "Supermood makes your company culture awesome! By asking three questions a week, we engage your employees and tell you what really happens in your company. By combining HR research and machine learning, we ask the right questions at the right time, and give you actionable advice to make everyone engaged.",
+      "connect": {
+        "mail": "hello@supermood.co",
+        "facebook": "https://www.facebook.com/SupermoodTeam/?fref=ts",
+        "twitter": "https://twitter.com/SupermoodTeam"
       }
     },
        {
@@ -225,18 +237,6 @@
         "twitter": "https://twitter.com/vocal_apps"
       }
     },
-    {
-      "name": "Stride",
-      "website": "stride.ai",
-      "status": "active",
-      "season": "7",
-      "pitch":"Stride helps organizations to learn from their data, so that they can put intelligence in everything they do and enable them to get right information to the right people at the right time. Businesses have accumulated huge amount of text across various channels such as social media, surveys, customer feedback and literature. Stride helps organizations to extract knowledge from it, by identifying the five \"W\", and the associated sentiment, from it.",
-      "connect": {
-        "mail": "info@stride.ai",
-        "facebook": "https://www.facebook.com/StrideText",
-        "twitter": "https://twitter.com/tationem"
-      }
-    },  
      {
       "name": "Welcome to the Jungle",
       "website": "welcometothejungle.co",
