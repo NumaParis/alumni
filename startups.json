@@ -260,18 +260,108 @@
       "twitter": "https://twitter.com/archivevalley"
     }
   },
-    {
-      "name": "UniqueSound",
-      "website": "uniquesound.com",
+      {
+        "name": "Birdly",
+        "website": "getbirdly.com",
+        "status": "active",
+        "season": "6",
+        "pitch": "Birdly is the first Slack bot that makes the expense reporting experience completely seamless. We extract information from receipts and use data intelligence to determine the relevant client, project, or travel context of the expense.",
+        "connect": {
+          "mail": "",
+          "facebook": "https://www.facebook.com/birdlycompany",
+          "twitter": "https://twitter.com/getbirdly",
+          "linkedin": "https://www.linkedin.com/company/kokot'"
+        }
+    },
+        {
+        "name": "Deepomatic",
+        "website": "deepomatic.com",
+        "status": "active",
+        "season": "6",
+        "pitch": "Deepomatic develops a deep learning based technology allowing medias to monetize their images by linking them to purchasable products.",
+        "connect": {
+          "mail": "contact@deepomatic.com",
+          "facebook": "https://www.facebook.com/deepomatic",
+          "twitter": "https://twitter.com/Deepomatic/",
+          "linkedin": "https://www.linkedin.com/company/deepomatic"
+        }
+    },
+      {
+    "name": "Drust",
+    "website": "drust.io",
+    "status": "active",
+    "season": "6",
+    "pitch": "Become a SuperDriver, confident, open and connected. Drust is a new dongle on the OBD socket of the car and bluetooth-connected to a smartphone via a community app. It brings users individualized advice and solution to drive smarter and save money on gas and repair.",
+    "connect": {
+      "mail": "contact@drust.io",
+      "facebook": "https://www.facebook.com/meetdrust",
+      "twitter": "http://twitter.com/meetdrust",
+      "linkedin": "https://www.linkedin.com/company/drust-sas"
+    }
+  },
+      {
+        "name": "Jam",
+        "website": "justjam.at",
+        "status": "active",
+        "season": "6",
+        "pitch": "Jam facilitates the daily life of thousands of students while answering to each of their requests.",
+        "connect": {
+          "mail": "team@justjam.at",
+          "facebook": "https://www.facebook.com/Jam-299724236866849/",
+          "twitter": "https://twitter.com/hellojam_",
+          "linkedin": "https://www.linkedin.com/company/blackbird-co?trk=nmp_rec_act_company_name"
+        }
+    },
+        {
+      "name": "Nunki",
+      "website": "nunki.co",
       "status": "active",
       "season": "6",
-      "pitch": "UniqueSound is a marketplace that allows brands, agencies and producers to directly request music from composers. Buyers post briefs outlining their music requirements and talented composers respond by submitting their music. It's that simple!",
+      "pitch": "Nunki is the first social newsviewer. Nunki is a free iPhone App that reinvents the way of keeping up to date with breaking news and live entertainment bringing its user into the heart of the action",
       "connect": {
-        "mail": "hello@uniquesound.com",
-        "facebook": "https://www.facebook.com/uniquesoundoff",
-        "twitter": "https://twitter.com/UniqueSoundOff",
-        "linkedin": "https://www.linkedin.com/company/uniquesound"
+        "mail": "hello@nunki.co",
+        "facebook": "https://www.facebook.com/NunkiApp",
+        "twitter": "https://twitter.com/NunkiApp",
+        "linkedin": "https://www.linkedin.com/company/nunki"
       }
+    },
+        {
+    "name": "Pulpix",
+    "website": "pulpix.co",
+    "status": "active",
+    "season": "6",
+    "pitch": "Pulpix is a video technology that displays interactive bonus content in real-time within your video, enhancing the experience for your audience and boosting your revenue",
+    "connect": {
+      "mail": "hello@pulpix.co",
+      "facebook": "https://www.facebook.com/Pulpix-399244810197662/",
+      "twitter": "http://twitter.com/pulpix",
+      "linkedin": "https://www.linkedin.com/company/pulpix"
+    }
+  },
+      {
+    "name": "SharePay",
+    "website": "sharepayers.com",
+    "status": "active",
+    "season": "6",
+    "pitch": "SharePay is an app that turns payment into a collaborative and sharing moment. It allows you to invite your friends, parents, co-workers, roomies or sweetheart to share in your payment to complete a purchase, all together, in real-time and without advancing money.",
+    "connect": {
+      "mail": "contact@sharepay.fr",
+      "facebook": "https://www.facebook.com/SharePay",
+      "twitter": "http://twitter.com/sharepayers"
+    }
+  },
+      {
+        "name": "Sharette",
+        "website": "sharette.fr",
+        "status": "active",
+        "season": "6",
+        "pitch": "Active member of the collaborzative economy, Sharette is a market place dedicated to mobility in urban areas, combining short-distance carpooling with the existing network of public transports.",
+        "connect": {
+          "mail": "contact@sharette.fr",
+          "facebook": "https://www.facebook.com/sharette.fr",
+          "twitter": "http://twitter.com/sharettefr",
+          "linkedin": "https://www.linkedin.com/company/sharette"
+        }
     },
     {
       "name": "Soundsgood",
@@ -286,109 +376,6 @@
         "linkedin": "https://www.linkedin.com/company/3330094"
       }
     },
-    {
-        "name": "Deepomatic",
-        "website": "deepomatic.com",
-        "status": "active",
-        "season": "6",
-        "pitch": "Deepomatic develops a deep learning based technology allowing medias to monetize their images by linking them to purchasable products.",
-        "connect": {
-          "mail": "contact@deepomatic.com",
-          "facebook": "https://www.facebook.com/deepomatic",
-          "twitter": "https://twitter.com/Deepomatic/",
-          "linkedin": "https://www.linkedin.com/company/deepomatic"
-        }
-    },
-    {
-        "name": "Jam",
-        "website": "justjam.at",
-        "status": "active",
-        "season": "6",
-        "pitch": "Jam facilitates the daily life of thousands of students while answering to each of their requests.",
-        "connect": {
-          "mail": "team@justjam.at",
-          "facebook": "https://www.facebook.com/Jam-299724236866849/",
-          "twitter": "https://twitter.com/hellojam_",
-          "linkedin": "https://www.linkedin.com/company/blackbird-co?trk=nmp_rec_act_company_name"
-        }
-    },
-    {
-        "name": "Birdly",
-        "website": "getbirdly.com",
-        "status": "active",
-        "season": "6",
-        "pitch": "Birdly is the first Slack bot that makes the expense reporting experience completely seamless. We extract information from receipts and use data intelligence to determine the relevant client, project, or travel context of the expense.",
-        "connect": {
-          "mail": "",
-          "facebook": "https://www.facebook.com/birdlycompany",
-          "twitter": "https://twitter.com/getbirdly",
-          "linkedin": "https://www.linkedin.com/company/kokot'"
-        }
-    },
-    {
-        "name": "Sharette",
-        "website": "sharette.fr",
-        "status": "active",
-        "season": "6",
-        "pitch": "Active member of the collaborzative economy, Sharette is a market place dedicated to mobility in urban areas, combining short-distance carpooling with the existing network of public transports.",
-        "connect": {
-          "mail": "contact@sharette.fr",
-          "facebook": "https://www.facebook.com/sharette.fr",
-          "twitter": "http://twitter.com/sharettefr",
-          "linkedin": "https://www.linkedin.com/company/sharette"
-        }
-    },
-    {
-      "name": "Nunki",
-      "website": "nunki.co",
-      "status": "active",
-      "season": "6",
-      "pitch": "Nunki is the first social newsviewer. Nunki is a free iPhone App that reinvents the way of keeping up to date with breaking news and live entertainment bringing its user into the heart of the action",
-      "connect": {
-        "mail": "hello@nunki.co",
-        "facebook": "https://www.facebook.com/NunkiApp",
-        "twitter": "https://twitter.com/NunkiApp",
-        "linkedin": "https://www.linkedin.com/company/nunki"
-      }
-    },
-    {
-    "name": "Pulpix",
-    "website": "pulpix.co",
-    "status": "active",
-    "season": "6",
-    "pitch": "Pulpix is a video technology that displays interactive bonus content in real-time within your video, enhancing the experience for your audience and boosting your revenue",
-    "connect": {
-      "mail": "hello@pulpix.co",
-      "facebook": "https://www.facebook.com/Pulpix-399244810197662/",
-      "twitter": "http://twitter.com/pulpix",
-      "linkedin": "https://www.linkedin.com/company/pulpix"
-    }
-  },
-    {
-    "name": "SharePay",
-    "website": "sharepayers.com",
-    "status": "active",
-    "season": "6",
-    "pitch": "SharePay is an app that turns payment into a collaborative and sharing moment. It allows you to invite your friends, parents, co-workers, roomies or sweetheart to share in your payment to complete a purchase, all together, in real-time and without advancing money.",
-    "connect": {
-      "mail": "contact@sharepay.fr",
-      "facebook": "https://www.facebook.com/SharePay",
-      "twitter": "http://twitter.com/sharepayers"
-    }
-  },
-  {
-    "name": "Drust",
-    "website": "drust.io",
-    "status": "active",
-    "season": "6",
-    "pitch": "Become a SuperDriver, confident, open and connected. Drust is a new dongle on the OBD socket of the car and bluetooth-connected to a smartphone via a community app. It brings users individualized advice and solution to drive smarter and save money on gas and repair.",
-    "connect": {
-      "mail": "contact@drust.io",
-      "facebook": "https://www.facebook.com/meetdrust",
-      "twitter": "http://twitter.com/meetdrust",
-      "linkedin": "https://www.linkedin.com/company/drust-sas"
-    }
-  },
   {
        "name": "Tiller Systems",
         "website": "tillersystems.com",
@@ -401,6 +388,19 @@
           "twitter": "https://twitter.com/tillersystems",
           "linkedin": "https://www.linkedin.com/company/tiller-systems"
         }
+    },
+        {
+      "name": "UniqueSound",
+      "website": "uniquesound.com",
+      "status": "active",
+      "season": "6",
+      "pitch": "UniqueSound is a marketplace that allows brands, agencies and producers to directly request music from composers. Buyers post briefs outlining their music requirements and talented composers respond by submitting their music. It's that simple!",
+      "connect": {
+        "mail": "hello@uniquesound.com",
+        "facebook": "https://www.facebook.com/uniquesoundoff",
+        "twitter": "https://twitter.com/UniqueSoundOff",
+        "linkedin": "https://www.linkedin.com/company/uniquesound"
+      }
     },
       {
     "name": "Agriconomie",
