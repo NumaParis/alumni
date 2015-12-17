@@ -12,6 +12,19 @@
         "twitter": "https://twitter.com/budeal"
       }
     },
+     {
+      "name": "Corilla",
+      "website": "corilla.co",
+      "status": "active",
+      "season": "7",
+      "pitch": "Corilla is a cloud-based technical writing tool that refocuses the authoring experience on collaborative workflows and content reuse. We remove the complexity of authoring and maintaining modular content that your entire team can curate and deploy on-demand. Corilla reduces your customer support costs while making technical writers happy using tools they love to create content that your users actually read.",
+      "connect": {
+        "mail": "team@corilla.co",
+        "facebook": "https://www.facebook.com/teamcorilla",
+        "twitter": "https://twitter.com/teamcorilla",
+        "linkedin": "https://www.linkedin.com/company/3963981"
+      }
+    },
       {
       "name": "Supermood",
       "website": "supermood.co",
@@ -140,19 +153,6 @@
         "mail": "hello@lezeste.paris",
         "facebook": "https://www.facebook.com/lezeste.paris",
         "twitter": "https://twitter.com/lezeste_paris"
-      }
-    },
-    {
-      "name": "Corilla",
-      "website": "corilla.co",
-      "status": "active",
-      "season": "7",
-      "pitch": "Corilla is a cloud-based technical writing tool that refocuses the authoring experience on collaborative workflows and content reuse. We remove the complexity of authoring and maintaining modular content that your entire team can curate and deploy on-demand. Corilla reduces your customer support costs while making technical writers happy using tools they love to create content that your users actually read.",
-      "connect": {
-        "mail": "team@corilla.co",
-        "facebook": "https://www.facebook.com/teamcorilla",
-        "twitter": "https://twitter.com/teamcorilla",
-        "linkedin": "https://www.linkedin.com/company/3963981"
       }
     },
     {
