@@ -36,6 +36,16 @@
         "twitter": "https://twitter.com/La_BQC"
       }
     }, 
+      {
+      "name": "Show-Roomer",
+      "website": "show-roomer.com",
+      "status": "active",
+      "season": "7",
+      "pitch": "Show-Roomer is a solution that enables web merchant to touch 2/3 of visitors on their website who whould never have bought without touching or trying the product. Show-Roomer aims to reassure the visitor who is interested by a product, by connecting him with a current customer who has already bought the product. The current customer is going to share his/her experience of the product, in exchange of a commission on the sale made after a demonstration of the product at his house (or phone call).",
+      "connect": {
+        "mail": "hello@show-roomer.com",
+      }
+    }, 
      {
       "name": "PopUp Immo",
       "website": "popupimmo.com",
