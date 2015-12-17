@@ -290,28 +290,28 @@
     },
     {
         "name": "Jam",
-        "website": "www.justjam.at",
+        "website": "justjam.at",
         "status": "active",
         "season": "6",
-        "pitch": "Put your campus in your pocket",
+        "pitch": "Jam facilitates the daily life of thousands of students while answering to each of their requests.",
         "connect": {
           "mail": "team@justjam.at",
-          "facebook": "https://www.facebook.com/pages/Jam/299724236866849?fref=ts",
-          "twitter": "@get_jam",
+          "facebook": "https://www.facebook.com/Jam-299724236866849/",
+          "twitter": "https://twitter.com/hellojam_",
           "linkedin": "https://www.linkedin.com/company/blackbird-co?trk=nmp_rec_act_company_name"
         }
     },
     {
-        "name": "Kokot'",
-        "website": "www.mykokot.com",
+        "name": "Birdly'",
+        "website": "getbirdly.com",
         "status": "active",
         "season": "6",
-        "pitch": "Expense reports, easy as a snapshot",
+        "pitch": "Birdly is the first Slack bot that makes the expense reporting experience completely seamless. We extract information from receipts and use data intelligence to determine the relevant client, project, or travel context of the expense.",
         "connect": {
-          "mail": "contact@mykokot.com",
-          "facebook": "https://www.facebook.com/pages/Kokot/624711224276699",
-          "twitter": "https://twitter.com/@mykokot",
-          "linkedin": "https://www.linkedin.com/company/5307214?trk=tyah&trkInfo=tarId%3A1411483981315%2Ctas%3Akokot%2Cidx%3A2-2-7"
+          "mail": "",
+          "facebook": "https://www.facebook.com/birdlycompany",
+          "twitter": "https://twitter.com/getbirdly",
+          "linkedin": "https://www.linkedin.com/company/kokot'"
         }
     },
     {
@@ -319,7 +319,7 @@
         "website": "sharette.fr",
         "status": "active",
         "season": "6",
-        "pitch": "Sharette is a market place dedicated to mobility in urban areas, combining short-distance carpooling with the existing network of public transports.",
+        "pitch": "Active member of the collaborzative economy, Sharette is a market place dedicated to mobility in urban areas, combining short-distance carpooling with the existing network of public transports.",
         "connect": {
           "mail": "contact@sharette.fr",
           "facebook": "https://www.facebook.com/sharette.fr",
