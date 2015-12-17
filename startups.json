@@ -420,37 +420,37 @@
     "website": "artips.fr",
     "status": "active",
     "season": "5",
-    "pitch": "Artips, une dose d'art au quotidien : www.artips.fr\nRecevez chaque jour une anecdote inattendue sur une oeuvre d'art connue ou moins connue. \nUn email à lire en une minute.",
+    "pitch": "Artips sends a daily anecdote, witty and memorable, about an art masterpiece, to be read in 1 minute only. Artips makes art and its history more accessible both in terms of content and mobility.",
     "connect": {
-      "mail": "colineetjean@artips.fr",
+      "mail": "founders@artips.fr",
       "facebook": "https://www.facebook.com/artipsfr",
       "twitter": "http://twitter.com/Artips_fr"
     }
   },
   {
     "name": "BandSquare",
-    "website": "www.bandsquare.com",
+    "website": "bandsquare.com",
     "status": "active",
     "season": "5",
-    "pitch": "BandSquare rapproche artistes et fans pour créer ensemble des concerts exceptionnels et vivre des moments privilégiés.",
+    "pitch": "BandSquare enable emerging artists to perform on stage thanks to a ticketing system based on crowdfunding principles: if enough people book their tickets, the concert is confirmed. We bring the venues, we have the audience. The production risk of an emerging artist is mutualised.",
     "connect": {
       "mail": "contact@bandsquare.fr",
       "facebook": "https://www.facebook.com/BandSquare.liveconcerts",
-      "twitter": "http://twitter.com/bandsquarelive"
+      "twitter": "http://twitter.com/bandsquarelive",
+      "linkedin": "https://www.linkedin.com/company/bandsquare"
     }
   },
   {
     "name": "Hublo",
-    "website": "www.hublo.com",
+    "website": "hublo.com",
     "status": "active",
     "season": "5",
-    "pitch": "Engagement analytics without coding.",
+    "pitch": "Hublo allows marketers to set-up tracking for web analytics on their site visually and without relying on their tech teams.",
     "connect": {
       "mail": "founders@hublo.co",
       "facebook": "https://www.facebook.com/leo.goffic",
       "twitter": "https://twitter.com/twyril",
       "angelist": "http://www.angelist.co/hublo",
-      "linkedin": "http://www.linkedin.com/in/lescaon"
     }
   },
   {
