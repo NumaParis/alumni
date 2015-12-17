@@ -792,19 +792,6 @@
     }
   },
   {
-    "name": "Voice Polls ex Poutsch",
-    "website": "voicepolls.com",
-    "status": "active",
-    "season": "3",
-    "pitch": "Poutsch facilitates the way we collect, express and make sense of opinions. The team is now working on Voice Polls that allows businesses to easily have answers from their consumers before taking decisions.",
-    "connect": {
-      "mail": "hello@voicepolls.com",
-      "facebook": "https://www.facebook.com/appvoice/?fref=ts",
-      "twitter": "https://twitter.com/app_voice",
-      "linkedin": "http://www.linkedin.com/poutsch"
-    }
-  },
-  {
     "name": "Sketchfab",
     "website": "sketchfab.com",
     "status": "active",
@@ -841,6 +828,19 @@
       "mail": "contact@veezio.com",
       "twitter": "http://www.twitter.com/veezio",
       "angelist": "https://angel.co/veezio"
+    }
+  },
+    {
+    "name": "Voice Polls ex Poutsch",
+    "website": "voicepolls.com",
+    "status": "active",
+    "season": "3",
+    "pitch": "Poutsch facilitates the way we collect, express and make sense of opinions. The team is now working on Voice Polls that allows businesses to easily have answers from their consumers before taking decisions.",
+    "connect": {
+      "mail": "hello@voicepolls.com",
+      "facebook": "https://www.facebook.com/appvoice/?fref=ts",
+      "twitter": "https://twitter.com/app_voice",
+      "linkedin": "http://www.linkedin.com/poutsch"
     }
   },
   {
