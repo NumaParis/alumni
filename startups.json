@@ -267,7 +267,7 @@
       "website": "soundsgood.co",
       "status": "active",
       "season": "6",
-      "pitch": "Beautiful playlists curated with passion by top influencers !",
+      "pitch": "Create and discover playlists across all streaming platforms. Soundsgood.co is uniting the world's first community of music curators.",
       "connect": {
         "mail": "contact@soundsgood.co",
         "facebook": "https://www.facebook.com/sndsgoood",
@@ -276,16 +276,16 @@
       }
     },
     {
-        "name": "Smyle",
-        "website": "www.smyle.io",
+        "name": "Deepomatic",
+        "website": "deepomatic.com",
         "status": "active",
         "season": "6",
-        "pitch": "Easy peasy: collect, compare and buy fashion articles !",
+        "pitch": "Deepomatic develops a deep learning based technology allowing medias to monetize their images by linking them to purchasable products.",
         "connect": {
-          "mail": "contact@smyle.io",
-          "facebook": "https://www.facebook.com/Smyle.io",
-          "twitter": "https://twitter.com/@smyleio",
-          "linkedin": "https://www.linkedin.com/company/smyle-io"
+          "mail": "contact@deepomatic.com",
+          "facebook": "https://www.facebook.com/deepomatic",
+          "twitter": "https://twitter.com/Deepomatic/",
+          "linkedin": "https://www.linkedin.com/company/deepomatic"
         }
     },
     {
