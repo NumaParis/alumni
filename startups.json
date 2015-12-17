@@ -62,6 +62,65 @@
         "linkedin": "https://www.linkedin.com/company/foodmeup"
       }
     },
+        {
+      "name": "Fretx",
+      "website": "fretx.rocks",
+      "status": "active",
+      "season": "7",
+      "pitch": "FRETX is a smart device that attaches to your guitar fretboard and transforms music notation into light patterns directly on your fretboard, making the learning experience easier and more dynamic.",
+      "connect": {
+        "mail": "hello@fretx.rocks",
+        "facebook": "https://www.facebook.com/fretxRocks?fref=ts",
+        "twitter": "https://twitter.com/GuitarFRETX"
+      }
+    },  
+        {
+      "name": "Gorgias",
+      "website": "gorgias.io",
+      "status": "active",
+      "season": "7",
+      "pitch": "Doing customer support is repetitive. Customer Support people spend half of their day responding to only 10 different questions, which are asked over and over. In small businesses, they usually copy paste responses.Today, progress in machine learning makes a change possible. With Gorgias, they can be automatically suggested what to respond to those questions, and save 30 minutes per day.",
+      "connect": {
+        "mail": "hello@gorgias.io",
+        "facebook": "https://www.facebook.com/pages/Gorgias/326831910853669",
+        "twitter": "https://twitter.com/gorgiasio"
+      }
+    },
+          {
+      "name": "Kapptivate",
+      "website": "kapptivate.com",
+      "status": "active",
+      "season": "7",
+      "pitch": "Mobile money is a revolution! In 2014, 42% of Kenya's GPD is spent through a mobile money service. Systems are now critical and operators need to invest in the quality and the liability of their solutions. At Kapptivate we created an amazing solution to ensure the quality and liability of a mobile money service by automating testing, monitoring and analysis phases. With Kapptivate you have all you need to drive safely your revolution.",
+      "connect": {
+        "mail": "hello@kapptivate.com",
+        "twitter": "https://twitter.com/kapptivate"
+      }
+    },  
+        {
+      "name": "Kwalito",
+      "website": "kwali.to",
+      "status": "active",
+      "season": "7",
+      "pitch": "Kwalito checks the composition of food products simply by scanning their barcode. Kwalito does not evaluate products as good or bad, because eating healthy does not mean the same thing for everybody. It simply matches your food requirements with the ingredients written on labels in order to give you a simple answer: this products fits you or not.",
+      "connect": {
+        "mail": "welcome@kwali.to",
+        "facebook": "https://www.facebook.com/kwalitoapp",
+        "twitter": "https://twitter.com/kwalitoApp"
+      }
+    },
+          {
+      "name": "La Boite qui Cartonne",
+      "website": "laboitequicartonne.fr",
+      "status": "active",
+      "season": "7",
+      "pitch": "La Boite Qui Cartonne is a service which takes care of the belongings cluttering your flat in a simple manner: for 6€ per month, La BQC will go to your home along with large boxes (60x40x40xm) and will take them back, once you've finished placing your things, to it's secured storage facilities and keep them for the timespan of your choice. Clothes, tools, books,... you can then ask to get your things back anytime and anywhere you wish with ease.",
+      "connect": {
+        "mail": "contact@laboitequicartonne.fr",
+        "facebook": "https://www.facebook.com/laboitequicartonne",
+        "twitter": "https://twitter.com/La_BQC"
+      }
+    }, 
       {
       "name": "Supermood",
       "website": "supermood.co",
@@ -74,18 +133,6 @@
         "twitter": "https://twitter.com/SupermoodTeam"
       }
     },
-      {
-      "name": "La Boite qui Cartonne",
-      "website": "laboitequicartonne.fr",
-      "status": "active",
-      "season": "7",
-      "pitch": "La Boite Qui Cartonne is a service which takes care of the belongings cluttering your flat in a simple manner: for 6€ per month, La BQC will go to your home along with large boxes (60x40x40xm) and will take them back, once you've finished placing your things, to it's secured storage facilities and keep them for the timespan of your choice. Clothes, tools, books,... you can then ask to get your things back anytime and anywhere you wish with ease.",
-      "connect": {
-        "mail": "contact@laboitequicartonne.fr",
-        "facebook": "https://www.facebook.com/laboitequicartonne",
-        "twitter": "https://twitter.com/La_BQC"
-      }
-    }, 
       {
       "name": "Show-Roomer",
       "website": "show-roomer.com",
@@ -106,29 +153,6 @@
         "mail": "contact@popupimmo.com",
         "facebook": "https://www.facebook.com/PopUpImmo?fref=ts",
         "twitter": "https://twitter.com/PopUpImmo"
-      }
-    },  
-      {
-      "name": "Kapptivate",
-      "website": "kapptivate.com",
-      "status": "active",
-      "season": "7",
-      "pitch": "Mobile money is a revolution! In 2014, 42% of Kenya's GPD is spent through a mobile money service. Systems are now critical and operators need to invest in the quality and the liability of their solutions. At Kapptivate we created an amazing solution to ensure the quality and liability of a mobile money service by automating testing, monitoring and analysis phases. With Kapptivate you have all you need to drive safely your revolution.",
-      "connect": {
-        "mail": "hello@kapptivate.com",
-        "twitter": "https://twitter.com/kapptivate"
-      }
-    },  
-    {
-      "name": "Fretx",
-      "website": "fretx.rocks",
-      "status": "active",
-      "season": "7",
-      "pitch": "FRETX is a smart device that attaches to your guitar fretboard and transforms music notation into light patterns directly on your fretboard, making the learning experience easier and more dynamic.",
-      "connect": {
-        "mail": "hello@fretx.rocks",
-        "facebook": "https://www.facebook.com/fretxRocks?fref=ts",
-        "twitter": "https://twitter.com/GuitarFRETX"
       }
     },  
     {
@@ -187,30 +211,6 @@
       "connect": {
         "mail": "hello@read.cx",
         "twitter": "https://twitter.com/readcx"
-      }
-    },
-    {
-      "name": "Gorgias",
-      "website": "gorgias.io",
-      "status": "active",
-      "season": "7",
-      "pitch": "Doing customer support is repetitive. Customer Support people spend half of their day responding to only 10 different questions, which are asked over and over. In small businesses, they usually copy paste responses.Today, progress in machine learning makes a change possible. With Gorgias, they can be automatically suggested what to respond to those questions, and save 30 minutes per day.",
-      "connect": {
-        "mail": "hello@gorgias.io",
-        "facebook": "https://www.facebook.com/pages/Gorgias/326831910853669",
-        "twitter": "https://twitter.com/gorgiasio"
-      }
-    },
-    {
-      "name": "Kwalito",
-      "website": "kwali.to",
-      "status": "active",
-      "season": "7",
-      "pitch": "Kwalito checks the composition of food products simply by scanning their barcode. Kwalito does not evaluate products as good or bad, because eating healthy does not mean the same thing for everybody. It simply matches your food requirements with the ingredients written on labels in order to give you a simple answer: this products fits you or not.",
-      "connect": {
-        "mail": "welcome@kwali.to",
-        "facebook": "https://www.facebook.com/kwalitoapp",
-        "twitter": "https://twitter.com/kwalitoApp"
       }
     },
        {
