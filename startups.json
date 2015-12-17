@@ -505,7 +505,7 @@
   },
   {
     "name": "StreamRoot",
-    "website": "www.streamroot.io",
+    "website": "streamroot.io",
     "status": "active",
     "season": "5",
     "pitch": "StreamRoot is a smart peer-to-peer video streaming solution that drastically  reduces bandwidth costs for web video platforms, and improves the quality of service for the end users.",
@@ -533,7 +533,7 @@
     "website": "tastehit.com",
     "status": "active",
     "season": "5",
-    "pitch": "TasteHit is a personalisation service for e-commerce websites",
+    "pitch": "TasteHit is a SaaS product recommendation engine for online shops that lets visitors control their shopping experience. Using state-of-the-art machine learning algorithms TasteHit understands shoppers' tastes and behaves as the best virtual salesperson by increasing conversion and making shoppers more loyal.",
     "connect": {
       "mail": "contact@tastehit.com",
       "facebook": "http://facebook.com/tastehit",
@@ -543,7 +543,7 @@
   },
   {
     "name": "Tripndrive",
-    "website": "pndrive.com",
+    "website": "tripndrive.com",
     "status": "active",
     "season": "5",
     "pitch": "Tripndrive enables car sharing for travellers. The departing traveller gets the use of a free parking space by renting their car at low cost to another traveller.",
@@ -556,10 +556,10 @@
   },
   {
     "name": "Auticiel",
-    "website": "www.auticiel.com",
+    "website": "auticiel.com",
     "status": "active",
     "season": "4",
-    "pitch": "We develop software tools that cognitively impaired people can use in the everyday life to better communicate, to better interact and to be better integrated in the society.",
+    "pitch": "Software tools to include cognitively impaired persons in society. With healthcare professionals and families, Auticiel develops adapted software to improve social insertion, school and emplyment accessibility for cognitively impaired persons.",
     "connect": {
       "mail": "contact@auticiel.com",
       "facebook": "https://www.facebook.com/pages/Auticiel/213886215369115",
@@ -569,10 +569,10 @@
   },
   {
     "name": "Cours avenue",
-    "website": "www.coursavenue.com",
+    "website": "coursavenue.com",
     "status": "active",
     "season": "4",
-    "pitch": "Geolocalized leisure courses (dance, music, art, etc.) search engine based on students recommendation.",
+    "pitch": "CoursAvenue.com is a free service that makes it easier to find, compare and enroll in all sorts of amazing classes at the best possible price. For the class providers, it facilitates their daily tasks and optimizes their booking rates.",
     "connect": {
       "mail": "contact@coursavenue.com",
       "facebook": "https://www.facebook.com/CoursAvenue",
@@ -584,7 +584,7 @@
     "website": "www.darjeelin.com",
     "status": "exited",
     "season": "4",
-    "pitch": "The crowdsourced travel agency",
+    "pitch": "The crowdsourced travel agency helping you to save loads of time and tons of money.",
     "connect": {
       "mail": "hello@darjeelin.com",
       "facebook": "http://facebook.com/darjeelin.travel",
@@ -597,7 +597,7 @@
     "website": "www.decovery.fr",
     "status": "active",
     "season": "4",
-    "pitch": "Largest community of home design experts to help homeowners transform their interiors",
+    "pitch": "Decovery is a place where experts and home design enthusiasts get together to help you transform your interior. The team is now part of Côtémaisons.",
     "connect": {
       "mail": "contact@decovery.fr",
       "facebook": "http://facebook.com/Decovery",
@@ -607,11 +607,22 @@
     }
   },
   {
+    "name": "Julie Desk",
+    "website": "juliedesk.com",
+    "status": "active",
+    "season": "4",
+    "pitch": "Julie is a virtual assistant using artificial intelligence to schedule your meetings and appointments",
+    "connect": {
+      "mail": "contact@juliedesk.com",
+      "twitter": "https://www.juliedesk.com/en-GB"
+    }
+  },
+  {
     "name": "Lingocracy",
     "website": "www.lingocracy.com",
     "status": "active",
     "season": "4",
-    "pitch": "Improve your language skills by reading news",
+    "pitch": "Lingocracy turns any web article into a personalised language session",
     "connect": {
       "mail": "yan@lingocracy.com",
       "facebook": "http://facebook.com/Lingocracy",
@@ -624,7 +635,7 @@
     "website": "www.melusyn.com",
     "status": "active",
     "season": "4",
-    "pitch": "Film production management made fast and easy in the cloud",
+    "pitch": "Bring stories to real life. From script to production, work together to build, schedule and manage a story on PC/Mac and mobiled,
     "connect": {
       "mail": "hello@melusyn.com",
       "facebook": "http://facebook.com/MelusynFR",
@@ -651,7 +662,7 @@
     "website": "www.smiirl.com",
     "status": "active",
     "season": "4",
-    "pitch": "Smart objects to integrate social media in real life",
+    "pitch": "Smiirl creates and builds smart objects for businesses and help them to reconnect their social identities to their physical presence.",
     "connect": {
       "mail": "r2d2@smiirl.com",
       "facebook": "http://facebook.com/smiirl",
@@ -661,17 +672,15 @@
     }
   },
   {
-    "name": "SOAP (ex znappit)",
+    "name": "SOAP",
     "website": "www.soapapp.co",
     "status": "active",
     "season": "4",
-    "pitch": "SOAP is a mobile app that turns you life into a video story, on your own, or with your friends.",
+    "pitch": "Soap creates collaborative video souvenir of an event made from participants individuals videos.",
     "connect": {
       "mail": "we@znapp.it",
-      "facebook": "http://facebook.com/znappit",
-      "twitter": "http://www.twitter.com/znappit",
-      "angelist": "http://www.angelist.co/znappit",
-      "linkedin": "http://www.linkedin.com/company/znappit"
+      "facebook": "https://www.facebook.com/SOAPapp/info/?tab=page_info",
+      "twitter": "https://twitter.com/soapapp"
     }
   },
   {
@@ -687,25 +696,11 @@
     }
   },
   {
-    "name": "Wepopp",
-    "website": "www.wepopp.com",
-    "status": "active",
-    "season": "4",
-    "pitch": "Easy planning with friends",
-    "connect": {
-      "mail": "contact@wepopp.com",
-      "facebook": "https://www.facebook.com/wepopp",
-      "twitter": "https://twitter.com/WePopp_",
-      "angelist": "https://angel.co/wepopp",
-      "linkedin": "http://www.linkedin.com/company/popp-"
-    }
-  },
-  {
     "name": "Zéro-gâchis",
     "website": "www.zero-gachis.com",
     "status": "active",
     "season": "4",
-    "pitch": "Fights against food waste by providing tools and services to the supermarkets.",
+    "pitch": "A mobile and web platform where consumers can locate the discount (-30 to 70%) applied on the sell-by date products in the partners supermarkets around them.",
     "connect": {
       "mail": "contact@zero-gachis.com",
       "facebook": "http://facebook.com/ZeroGachis",
