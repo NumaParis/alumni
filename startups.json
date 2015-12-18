@@ -508,6 +508,60 @@
         "twitter": "https://twitter.com/OuiShare"
       }
     },
+    {
+      "name": "Pythagora",
+      "website": "pythagora.com",
+      "status": "active",
+      "season": "Rise",
+      "pitch": "The platform for educative videos.",
+      "connect": {
+        "facebook": "https://www.facebook.com/Pythagora-336923876356129/",
+        "twitter": "https://twitter.com/pythagora"
+      }
+    },
+      {
+      "name": "Self Ad",
+      "website": "self-ad.com",
+      "status": "active",
+      "season": "Rise",
+      "pitch": "The platform for educative videos.",
+      "connect": {
+        "twitter": "https://twitter.com/self_ad"
+      }
+    },
+    {
+      "name": "Skappy",
+      "website": "skappy.co",
+      "status": "active",
+      "season": "Rise",
+      "pitch": "Skappy is an online anti-stress personal assistant.",
+      "connect": {
+       "facebook": "https://www.facebook.com/coach.anti.stress.digital/",
+        "twitter": "https://twitter.com/skappy_esanted"
+      }
+    },
+      {
+      "name": "Social Media Club France",
+      "website": "socialmediaclub.fr",
+      "status": "active",
+      "season": "Rise",
+      "pitch": "The Social Media Club is an association for new media experts who meetup on a weekly basis to explore and showcase the latest industry trends.",
+      "connect": {
+       "facebook": "https://www.facebook.com/smcfrance/",
+        "twitter": "https://twitter.com/smcfrance"
+      }
+    },
+          {
+      "name": "Yalokiboo",
+      "website": "skappy.co",
+      "status": "dead",
+      "season": "Rise",
+      "pitch": "Yelokiboo helps you organize and enjoy diner time everyday.",
+      "connect": {
+       "facebook": "https://www.facebook.com/yalokiboo/",
+        "twitter": "https://twitter.com/yalokiboo"
+      }
+    },
       {
     "name": "Agriconomie",
     "website": "agriconomie.com",
