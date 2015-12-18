@@ -412,6 +412,18 @@
         "linkedin": "https://www.linkedin.com/company/uniquesound"
       }
     },
+            {
+      "name": "Back Market",
+      "website": "backmarket.fr",
+      "status": "active",
+      "season": "Rise",
+      "pitch": "Back Market is the (super) market of reconditioned products.",
+      "connect": {
+        "mail": "hi@backmarket.fr",
+        "facebook": "https://www.facebook.com/backmarket/timeline",
+        "twitter": "https://twitter.com/back_market"
+      }
+    },
       {
     "name": "Agriconomie",
     "website": "agriconomie.com",
