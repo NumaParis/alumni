@@ -444,7 +444,7 @@
         "facebook": "https://www.facebook.com/eatripcommunity"
       }
     },
-              {
+     {
       "name": "La Box Culturelle",
       "website": "blog.laboxculturelle.com",
       "status": "active",
@@ -452,6 +452,60 @@
       "pitch": "The best of Parisian culture directly in your mailbox.",
       "connect": {
         "facebook": "https://www.facebook.com/eatripcommunity"
+      }
+    },
+    {
+      "name": "La Chouette à Lunettes",
+      "website": "",
+      "status": "active",
+      "season": "Rise",
+      "pitch": "A book + an application to read stories in a brand new way.",
+      "connect": {
+        "facebook": "https://www.facebook.com/chouettealunettes/",
+        "twitter": "https://twitter.com/chouettemyope"
+      }
+    },
+    {
+      "name": "Listen Ensemble",
+      "website": "listenensemble.com",
+      "status": "active",
+      "season": "Rise",
+      "pitch": "Listen Ensemble is a chamber music orchestra that shapes its projects around digital culture and new technologies.",
+      "connect": {
+        "facebook": "https://www.facebook.com/listenensemble",
+        "twitter": "https://twitter.com/ListenEnsemble"
+      }
+    },
+        {
+      "name": "Needelp",
+      "website": "needelp.com",
+      "status": "active",
+      "season": "Rise",
+      "pitch": "The mutual assistance between neighbours! Home improvement, cleaning, delivery...",
+      "connect": {
+        "facebook": "https://www.facebook.com/needelp",
+        "twitter": "https://twitter.com/needelp"
+      }
+    },
+    {
+      "name": "Noosfeer",
+      "website": "noosfeer.com",
+      "status": "active",
+      "season": "Rise",
+      "pitch": "Use Noosfeer to enhance your reading experience and stop accumulating stuff you'll never read.",
+      "connect": {
+        "facebook": "https://www.facebook.com/Noosfeer-224306501068711/timeline"
+      }
+    },
+      {
+      "name": "Ouishare",
+      "website": "ouishare.net",
+      "status": "active",
+      "season": "Rise",
+      "pitch": "OuiShare is a global community that connects people, organisations and ideas around fairness, openness and trust",
+      "connect": {
+        "facebook": "https://www.facebook.com/OuiShare/",
+        "twitter": "https://twitter.com/OuiShare"
       }
     },
       {
