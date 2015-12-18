@@ -425,6 +425,36 @@
       }
     },
       {
+      "name": "Eatrip",
+      "website": "eatripapp.com",
+      "status": "active",
+      "season": "Rise",
+      "pitch": "Mobile application: A culinary guide for every country you're visiting.",
+      "connect": {
+        "facebook": "https://www.facebook.com/eatripcommunity"
+      }
+    },
+          {
+      "name": "FrenchMedicine.com",
+      "website": "frenchmedicine.com",
+      "status": "active",
+      "season": "Rise",
+      "pitch": "FrenchMedicine is a vidioconference service which allows you to see a doctor, no matter where you are. It aims to improve care access for expatriates and French speaking populations.",
+      "connect": {
+        "facebook": "https://www.facebook.com/eatripcommunity"
+      }
+    },
+              {
+      "name": "La Box Culturelle",
+      "website": "blog.laboxculturelle.com",
+      "status": "active",
+      "season": "Rise",
+      "pitch": "The best of Parisian culture directly in your mailbox.",
+      "connect": {
+        "facebook": "https://www.facebook.com/eatripcommunity"
+      }
+    },
+      {
     "name": "Agriconomie",
     "website": "agriconomie.com",
     "status": "active",
