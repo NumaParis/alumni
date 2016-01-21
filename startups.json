@@ -1,19 +1,57 @@
 [
-    {
-      "name": "Sentimy",
-      "website": "sentimy.com",
+
+ {
+      "name": "Budeal",
+      "website": "budeal.com",
       "status": "active",
       "season": "7",
-      "pitch": "Giving your employees a way to speak up while improving your company's culture!",
+      "pitch": "A simple and friendly garage sale on your smartphone! Budeal is a mobile app that allows you to buy and sell  products quickly and easily. Budeal reinvents classified ads using smartphones and social networks to simplify the sale of products and to bring more trusts in transactions.",
       "connect": {
-        "mail": "us@sentimy.com",
-        "facebook": "https://www.facebook.com/SentimyOfficial",
-        "twitter": "https://twitter.com/SentimyOfficial"
+        "mail": "contact@budeal.com",
+        "facebook": "https://www.facebook.com/budealapp",
+        "twitter": "https://twitter.com/budeal"
       }
     },
-    {
+     {
+      "name": "Corilla",
+      "website": "corilla.co",
+      "status": "active",
+      "season": "7",
+      "pitch": "Corilla is a cloud-based technical writing tool that refocuses the authoring experience on collaborative workflows and content reuse. We remove the complexity of authoring and maintaining modular content that your entire team can curate and deploy on-demand. Corilla reduces your customer support costs while making technical writers happy using tools they love to create content that your users actually read.",
+      "connect": {
+        "mail": "team@corilla.co",
+        "facebook": "https://www.facebook.com/teamcorilla",
+        "twitter": "https://twitter.com/teamcorilla",
+        "linkedin": "https://www.linkedin.com/company/3963981"
+      }
+    },
+        {
+      "name": "Coursierprivé",
+      "website": "coursierprive.com",
+      "status": "active",
+      "season": "7",
+      "pitch": "Coursier Privé is a B2B urban delivery service, 50% cheaper than traditional couriers, completely transparent, empowering outstanding delivery experience. Our technology enhances impulsion buying by delivering all parcels the quickest way possible, at the best price, maximising merchant's ROI, minimising end-user's click-to-possession, and reducing gas emissions of drivers.",
+      "connect": {
+        "mail": "contact@coursierprive.com",
+        "facebook": "https://www.facebook.com/coursierprivecom?fref=ts",
+        "twitter": "https://twitter.com/coursier_prive"
+      }
+    },  
+        {
+      "name": "Filoute",
+      "website": "filoute.com",
+      "status": "active",
+      "season": "7",
+      "pitch": "Filoute provides craft tutorials to help you succeed: you can learn when, where and how you like. Enjoy classes anytime from the convenience of your home, watch them at your preferred pace, revisit your favorite concept with just a click, ask your expert instructors questions, and learn easily with videos that walk you step-by-step through gaining skills.",
+      "connect": {
+        "mail": "founders@filoute.com",
+        "facebook": "https://www.facebook.com/Filoute-317659605091302/",
+        "twitter": "https://twitter.com/filoute_com"
+      }
+    },
+          {
       "name": "FoodMeUp",
-      "website": "www.foodmeup.net",
+      "website": "foodmeup.net",
       "status": "active",
       "season": "7",
       "pitch": "FoodMeUp is the first SaaS dedicated to recipe management. It allows professionals of the food industry to organize their recipes (collaborative work, versioning, tree structure), manage their production (merge recipes, retrieve all ingredients, manage stocks and send orders, print multiple technical sheets) and access analytics (costs,profitability, etc.)",
@@ -24,109 +62,313 @@
         "linkedin": "https://www.linkedin.com/company/foodmeup"
       }
     },
-    {
-      "name": "Pandascore",
-      "website": "pandascore.co",
+        {
+      "name": "Fretx",
+      "website": "fretx.rocks",
       "status": "active",
       "season": "7",
-      "pitch": "Esport is getting big ! Beat your competitors with our statistics and analysts knowledge !",
+      "pitch": "FRETX is a smart device that attaches to your guitar fretboard and transforms music notation into light patterns directly on your fretboard, making the learning experience easier and more dynamic.",
       "connect": {
-        "mail": "flav@pandascore.co",
-        "facebook": "https://www.facebook.com/pandascore",
-        "twitter": "https://twitter.com/panda_score"
+        "mail": "hello@fretx.rocks",
+        "facebook": "https://www.facebook.com/fretxRocks?fref=ts",
+        "twitter": "https://twitter.com/GuitarFRETX"
       }
-    },
-    {
-      "name": "Le Zeste",
-      "website": "lezeste.paris",
-      "status": "active",
-      "season": "7",
-      "pitch": "Enjoy every meal : order delicious meals cooked by our chef, get delivered in less than 20 minutes.",
-      "connect": {
-        "mail": "hello@lezeste.paris",
-        "facebook": "https://www.facebook.com/lezeste.paris",
-        "twitter": "https://twitter.com/lezeste_paris"
-      }
-    },
-    {
-      "name": "Budeal",
-      "website": "www.budeal.com",
-      "status": "active",
-      "season": "7",
-      "pitch": "A simple and friendly garage sale on your smartphone! Budeal is a mobile app that allows you to buy and sell  products quickly and easily. Budeal reinvents classified ads using smartphones and social networks to simplify the sale of products and to bring more trusts in transactions.",
-      "connect": {
-        "mail": "contact@budeal.com",
-        "facebook": "https://www.facebook.com/budealapp",
-        "twitter": "https://twitter.com/budeal"
-      }
-    },
-    {
-      "name": "Corilla",
-      "website": "corilla.co",
-      "status": "active",
-      "season": "7",
-      "pitch": "Beautiful publishing tools for technical writers from draft to device.",
-      "connect": {
-        "mail": "team@corilla.co",
-        "facebook": "https://www.facebook.com/teamcorilla",
-        "twitter": "https://twitter.com/teamcorilla",
-        "linkedin": "https://www.linkedin.com/company/3963981"
-      }
-    },
-    {
-      "name": "Les Petites Tables",
-      "website": "www.lespetitestables.com",
-      "status": "active",
-      "season": "7",
-      "pitch": "Les Petites Tables makes it painlessly easy to find quality, delicious, places to eat across Europe. In less than a minute, for less than 10 euro.",
-      "connect": {
-        "mail": "team@lespetitestables.com",
-        "facebook": "https://www.facebook.com/pages/Les-Petites-Tables/1409069196023392"
-      }
-    },
-    {
+    },  
+        {
       "name": "Gorgias",
       "website": "gorgias.io",
       "status": "active",
       "season": "7",
-      "pitch": "Gorgias automatically suggests what to reply to a repetitive email",
+      "pitch": "Doing customer support is repetitive. Customer Support people spend half of their day responding to only 10 different questions, which are asked over and over. In small businesses, they usually copy paste responses.Today, progress in machine learning makes a change possible. With Gorgias, they can be automatically suggested what to respond to those questions, and save 30 minutes per day.",
       "connect": {
         "mail": "hello@gorgias.io",
         "facebook": "https://www.facebook.com/pages/Gorgias/326831910853669",
         "twitter": "https://twitter.com/gorgiasio"
       }
     },
-    {
+          {
+      "name": "Kapptivate",
+      "website": "kapptivate.com",
+      "status": "active",
+      "season": "7",
+      "pitch": "Mobile money is a revolution! In 2014, 42% of Kenya's GPD is spent through a mobile money service. Systems are now critical and operators need to invest in the quality and the liability of their solutions. At Kapptivate we created an amazing solution to ensure the quality and liability of a mobile money service by automating testing, monitoring and analysis phases. With Kapptivate you have all you need to drive safely your revolution.",
+      "connect": {
+        "mail": "hello@kapptivate.com",
+        "twitter": "https://twitter.com/kapptivate"
+      }
+    },  
+        {
       "name": "Kwalito",
       "website": "kwali.to",
       "status": "active",
       "season": "7",
-      "pitch": "The mobile app that checks in 2 seconds the composition of food products according to your requirements",
+      "pitch": "Kwalito checks the composition of food products simply by scanning their barcode. Kwalito does not evaluate products as good or bad, because eating healthy does not mean the same thing for everybody. It simply matches your food requirements with the ingredients written on labels in order to give you a simple answer: this products fits you or not.",
       "connect": {
         "mail": "welcome@kwali.to",
         "facebook": "https://www.facebook.com/kwalitoapp",
         "twitter": "https://twitter.com/kwalitoApp"
       }
     },
-    {
-      "name": "UniqueSound",
-      "website": "uniquesound.com",
+          {
+      "name": "La Boite qui Cartonne",
+      "website": "laboitequicartonne.fr",
+      "status": "active",
+      "season": "7",
+      "pitch": "La Boite Qui Cartonne is a service which takes care of the belongings cluttering your flat in a simple manner: for 6€ per month, La BQC will go to your home along with large boxes (60x40x40xm) and will take them back, once you've finished placing your things, to it's secured storage facilities and keep them for the timespan of your choice. Clothes, tools, books,... you can then ask to get your things back anytime and anywhere you wish with ease.",
+      "connect": {
+        "mail": "contact@laboitequicartonne.fr",
+        "facebook": "https://www.facebook.com/laboitequicartonne",
+        "twitter": "https://twitter.com/La_BQC"
+      }
+    }, 
+        {
+      "name": "Les Petites Tables",
+      "website": "lespetitestables.com",
+      "status": "active",
+      "season": "7",
+      "pitch": "What if you were told that it's possible to eat delicious, local, proper, non-junk food in restaurants without ruining your wallet? What if you could afford to do this on a daily basis? What if you didn't have to read thousand reviews and spend hours to find a new place? Les Petites Tables is about making such experiences possible. Made by a team of two different foodies: a very tall food critique and an always-smiling entrepreneur.",
+      "connect": {
+        "mail": "team@lespetitestables.com",
+        "facebook": "https://www.facebook.com/pages/Les-Petites-Tables/1409069196023392"
+      }
+    },
+        {
+      "name": "Le Zeste",
+      "website": "lezeste.paris",
+      "status": "active",
+      "season": "7",
+      "pitch": "Le Zeste is a superfast food delivery service for gourmet and demanding urban people. Every day, chef Mehdi Favri and his team feature healthy, creative and delicious meals on our website. You can order in 3 clicks and get delivered in less than 20 minutes. Today, Le Zeste is used and loved by professionals who work late in their office. It aims to become the biggest online restaurant in Europe, serving every demanding person for lunch or diner.",
+      "connect": {
+        "mail": "hello@lezeste.paris",
+        "facebook": "https://www.facebook.com/lezeste.paris",
+        "twitter": "https://twitter.com/lezeste_paris"
+      }
+    },
+        {
+      "name": "Pandascore",
+      "website": "pandascore.co",
+      "status": "active",
+      "season": "7",
+      "pitch": "PandaScore aims to become the date provider for e-sports. That means working with the 4 pillars of the (e)sports economy: brands, teams, media and bookmakers. We are delivering a SaaS platform to access the data in a sexy way: clean UX, data visualization, swagger API...",
+      "connect": {
+        "mail": "flav@pandascore.co",
+        "facebook": "https://www.facebook.com/pandascore",
+        "twitter": "https://twitter.com/panda_score"
+      }
+    },
+         {
+      "name": "PopUp Immo",
+      "website": "popupimmo.com",
+      "status": "active",
+      "season": "7",
+      "pitch": "PopUp Immo is the #1 marketplace dedicated exclusively to the rental of short-term commercial real estate. PopUp Immo revolutionizes short-term commercial space rental by allowing businesspeople, brands, designers and e-commerce companies to rent pop-up stores, showrooms or other spaces for as little as one day or one week, to upwards of several months, in complete simplicity and without a long-term commitment.",
+      "connect": {
+        "mail": "contact@popupimmo.com",
+        "facebook": "https://www.facebook.com/PopUpImmo?fref=ts",
+        "twitter": "https://twitter.com/PopUpImmo"
+      }
+    }, 
+          {
+      "name": "Read",
+      "website": "read.cx",
+      "status": "active",
+      "season": "7",
+      "pitch": "We change the way people read, retain and work on written content on mobile. Today, readers enjoy our app to read their own ePub files. We then will make it easy to access and open every file that needs to be read on mobile. And from there, Read offers the best experience.",
+      "connect": {
+        "mail": "hello@read.cx",
+        "twitter": "https://twitter.com/readcx"
+      }
+    },
+          {
+      "name": "Show-Roomer",
+      "website": "show-roomer.com",
+      "status": "active",
+      "season": "7",
+      "pitch": "Show-Roomer is a solution that enables web merchant to touch 2/3 of visitors on their website who whould never have bought without touching or trying the product. Show-Roomer aims to reassure the visitor who is interested by a product, by connecting him with a current customer who has already bought the product. The current customer is going to share his/her experience of the product, in exchange of a commission on the sale made after a demonstration of the product at his house (or phone call).",
+      "connect": {
+        "mail": "hello@show-roomer.com"
+      }
+    }, 
+        {
+      "name": "Skippair",
+      "website": "skippair.com",
+      "status": "active",
+      "season": "7",
+      "pitch": "With Skippair, we make sea travel easy for all! We have created the first platform linking travellers who are dreaming to discover sailing with professional skipper who needs help to sell their packages. On Skippair.com, within a few clicks you get to choose your skipper and embark wherever you want. We prove that we have the best offer to democratize sea travels, 1/3 of our customers are complete beginners.",
+      "connect": {
+        "mail": "contact@skippair.com",
+        "facebook": "https://www.facebook.com/Skippair",
+        "twitter": "https://twitter.com/skippair"
+      }
+    },
+       {
+      "name": "Stride",
+      "website": "stride.ai",
+      "status": "active",
+      "season": "7",
+      "pitch":"Stride helps organizations to learn from their data, so that they can put intelligence in everything they do and enable them to get right information to the right people at the right time. Businesses have accumulated huge amount of text across various channels such as social media, surveys, customer feedback and literature. Stride helps organizations to extract knowledge from it, by identifying the five \"W\", and the associated sentiment, from it.",
+      "connect": {
+        "mail": "info@stride.ai",
+        "facebook": "https://www.facebook.com/StrideText",
+        "twitter": "https://twitter.com/tationem"
+      }
+    },  
+      {
+      "name": "Supermood",
+      "website": "supermood.co",
+      "status": "active",
+      "season": "7",
+      "pitch": "Supermood makes your company culture awesome! By asking three questions a week, we engage your employees and tell you what really happens in your company. By combining HR research and machine learning, we ask the right questions at the right time, and give you actionable advice to make everyone engaged.",
+      "connect": {
+        "mail": "hello@supermood.co",
+        "facebook": "https://www.facebook.com/SupermoodTeam/?fref=ts",
+        "twitter": "https://twitter.com/SupermoodTeam"
+      }
+    },
+       {
+      "name": "Vocal Apps",
+      "website": "vocal-apps.com",
+      "status": "active",
+      "season": "7",
+      "pitch": "Ironman, Knight Rider or Star Trek, talking with an artificial intelligence that is here to assist us will be such a huge progress in our lives. Sadly, we are not there yet. Today's tools to build smart voice interfaces are all based on an obscure and very limited XML syntax. Our solution allows developers to create vocal applications 10 times faster with an incomparable linguistic flexibility. We already have renowned customers from smart home, automotive and robotics industry.",
+      "connect": {
+        "mail": "contact@vocal-apps.com",
+        "facebook": "https://www.facebook.com/VocalApps?fref=ts",
+        "twitter": "https://twitter.com/vocal_apps"
+      }
+    },
+     {
+      "name": "Welcome to the Jungle",
+      "website": "welcometothejungle.co",
+      "status": "active",
+      "season": "7",
+      "pitch": "Recruiting is broken and we want to fix it! The solution is not multiplying job posting solutions, but working on the employer brand: how to attract the right talents and make them apply?Welcome to the Jungle is the online platform that showcases the culture and the specificities of carefully selected companies, so that candidates can discover who they want to work for. By creating high quality content (photos, videos, editorial) we make the job search enjoyable again.",
+      "connect": {
+        "mail": "contact@welcometothejungle.co",
+        "facebook": "https://www.facebook.com/welcomethisisthejungle?fref=ts",
+        "twitter": "https://twitter.com/WTTJ"
+      }
+    },
+     {
+    "name": "Archive Valley",
+    "website": "archivevalley.com",
+    "status": "active",
+    "season": "6",
+    "pitch": "A startup premiering terrific archives!",
+    "connect": {
+      "mail": "founders@artchy.io",
+      "twitter": "https://twitter.com/archivevalley"
+    }
+  },
+      {
+        "name": "Birdly",
+        "website": "getbirdly.com",
+        "status": "active",
+        "season": "6",
+        "pitch": "Birdly is the first Slack bot that makes the expense reporting experience completely seamless. We extract information from receipts and use data intelligence to determine the relevant client, project, or travel context of the expense.",
+        "connect": {
+          "mail": "",
+          "facebook": "https://www.facebook.com/birdlycompany",
+          "twitter": "https://twitter.com/getbirdly",
+          "linkedin": "https://www.linkedin.com/company/kokot'"
+        }
+    },
+        {
+        "name": "Deepomatic",
+        "website": "deepomatic.com",
+        "status": "active",
+        "season": "6",
+        "pitch": "Deepomatic develops a deep learning based technology allowing medias to monetize their images by linking them to purchasable products.",
+        "connect": {
+          "mail": "contact@deepomatic.com",
+          "facebook": "https://www.facebook.com/deepomatic",
+          "twitter": "https://twitter.com/Deepomatic/",
+          "linkedin": "https://www.linkedin.com/company/deepomatic"
+        }
+    },
+      {
+    "name": "Drust",
+    "website": "drust.io",
+    "status": "active",
+    "season": "6",
+    "pitch": "Become a SuperDriver, confident, open and connected. Drust is a new dongle on the OBD socket of the car and bluetooth-connected to a smartphone via a community app. It brings users individualized advice and solution to drive smarter and save money on gas and repair.",
+    "connect": {
+      "mail": "contact@drust.io",
+      "facebook": "https://www.facebook.com/meetdrust",
+      "twitter": "http://twitter.com/meetdrust",
+      "linkedin": "https://www.linkedin.com/company/drust-sas"
+    }
+  },
+      {
+        "name": "Jam",
+        "website": "justjam.at",
+        "status": "active",
+        "season": "6",
+        "pitch": "Jam facilitates the daily life of thousands of students while answering to each of their requests.",
+        "connect": {
+          "mail": "team@justjam.at",
+          "facebook": "https://www.facebook.com/Jam-299724236866849/",
+          "twitter": "https://twitter.com/hellojam_",
+          "linkedin": "https://www.linkedin.com/company/blackbird-co?trk=nmp_rec_act_company_name"
+        }
+    },
+        {
+      "name": "Nunki",
+      "website": "nunki.co",
       "status": "active",
       "season": "6",
-      "pitch": "Videos will never sound the same",
+      "pitch": "Nunki is the first social newsviewer. Nunki is a free iPhone App that reinvents the way of keeping up to date with breaking news and live entertainment bringing its user into the heart of the action",
       "connect": {
-        "mail": "hello@uniquesound.com",
-        "facebook": "https://www.facebook.com/uniquesoundoff",
-        "twitter": "https://twitter.com/UniqueSoundOff",
-        "linkedin": "https://www.linkedin.com/company/uniquesound"
+        "mail": "hello@nunki.co",
+        "facebook": "https://www.facebook.com/NunkiApp",
+        "twitter": "https://twitter.com/NunkiApp",
+        "linkedin": "https://www.linkedin.com/company/nunki"
       }
+    },
+        {
+    "name": "Pulpix",
+    "website": "pulpix.co",
+    "status": "active",
+    "season": "6",
+    "pitch": "Pulpix is a video technology that displays interactive bonus content in real-time within your video, enhancing the experience for your audience and boosting your revenue",
+    "connect": {
+      "mail": "hello@pulpix.co",
+      "facebook": "https://www.facebook.com/Pulpix-399244810197662/",
+      "twitter": "http://twitter.com/pulpix",
+      "linkedin": "https://www.linkedin.com/company/pulpix"
+    }
+  },
+      {
+    "name": "SharePay",
+    "website": "sharepay.fr",
+    "status": "active",
+    "season": "6",
+    "pitch": "SharePay is an app that turns payment into a collaborative and sharing moment. It allows you to invite your friends, parents, co-workers, roomies or sweetheart to share in your payment to complete a purchase, all together, in real-time and without advancing money.",
+    "connect": {
+      "mail": "contact@sharepay.fr",
+      "facebook": "https://www.facebook.com/SharePay",
+      "twitter": "http://twitter.com/sharepayers"
+    }
+  },
+      {
+        "name": "Sharette",
+        "website": "sharette.fr",
+        "status": "active",
+        "season": "6",
+        "pitch": "Active member of the collaborzative economy, Sharette is a market place dedicated to mobility in urban areas, combining short-distance carpooling with the existing network of public transports.",
+        "connect": {
+          "mail": "contact@sharette.fr",
+          "facebook": "https://www.facebook.com/sharette.fr",
+          "twitter": "http://twitter.com/sharettefr",
+          "linkedin": "https://www.linkedin.com/company/sharette"
+        }
     },
     {
       "name": "Soundsgood",
       "website": "soundsgood.co",
       "status": "active",
       "season": "6",
-      "pitch": "Beautiful playlists curated with passion by top influencers !",
+      "pitch": "Create and discover playlists across all streaming platforms. Soundsgood.co is uniting the world's first community of music curators.",
       "connect": {
         "mail": "contact@soundsgood.co",
         "facebook": "https://www.facebook.com/sndsgoood",
@@ -134,168 +376,250 @@
         "linkedin": "https://www.linkedin.com/company/3330094"
       }
     },
-    {
-        "name": "Smyle",
-        "website": "www.smyle.io",
+  {
+       "name": "Tiller Systems",
+        "website": "tillersystems.com",
         "status": "active",
         "season": "6",
-        "pitch": "Easy peasy: collect, compare and buy fashion articles !",
+        "pitch": "TILL By Tiller Systems is a turnkey mobile point-of-sale solution designed for bars and restaurants. It combines an intuitive iPad-based oredering platform with an innovative web-based back-office in which restaurant professionals can access management tools and analytics in real time.",
         "connect": {
-          "mail": "contact@smyle.io",
-          "facebook": "https://www.facebook.com/Smyle.io",
-          "twitter": "https://twitter.com/@smyleio",
-          "linkedin": "https://www.linkedin.com/company/smyle-io"
+          "mail": "",
+          "facebook": "https://www.facebook.com/TillPOS",
+          "twitter": "https://twitter.com/tillersystems",
+          "linkedin": "https://www.linkedin.com/company/tiller-systems"
         }
     },
-    {
-        "name": "Jam",
-        "website": "www.justjam.at",
-        "status": "active",
-        "season": "6",
-        "pitch": "Put your campus in your pocket",
-        "connect": {
-          "mail": "team@justjam.at",
-          "facebook": "https://www.facebook.com/pages/Jam/299724236866849?fref=ts",
-          "twitter": "@get_jam",
-          "linkedin": "https://www.linkedin.com/company/blackbird-co?trk=nmp_rec_act_company_name"
-        }
-    },
-    {
-        "name": "Kokot'",
-        "website": "www.mykokot.com",
-        "status": "active",
-        "season": "6",
-        "pitch": "Expense reports, easy as a snapshot",
-        "connect": {
-          "mail": "contact@mykokot.com",
-          "facebook": "https://www.facebook.com/pages/Kokot/624711224276699",
-          "twitter": "https://twitter.com/@mykokot",
-          "linkedin": "https://www.linkedin.com/company/5307214?trk=tyah&trkInfo=tarId%3A1411483981315%2Ctas%3Akokot%2Cidx%3A2-2-7"
-        }
-    },
-    {
-        "name": "Sharette",
-        "website": "sharette.fr",
-        "status": "active",
-        "season": "6",
-        "pitch": "Sharette is a market place dedicated to mobility in urban areas, combining short-distance carpooling with the existing network of public transports.",
-        "connect": {
-          "mail": "contact@sharette.fr",
-          "facebook": "https://www.facebook.com/sharette.fr",
-          "twitter": "http://twitter.com/sharettefr"
-        }
-    },
-    {
-      "name": "Nunki",
-      "website": "www.nunki.co",
+        {
+      "name": "UniqueSound",
+      "website": "uniquesound.com",
       "status": "active",
       "season": "6",
-      "pitch": "Live information, real emotions",
+      "pitch": "UniqueSound is a marketplace that allows brands, agencies and producers to directly request music from composers. Buyers post briefs outlining their music requirements and talented composers respond by submitting their music. It's that simple!",
       "connect": {
-        "mail": "hello@nunki.co",
-        "twitter": "https://twitter.com/NunkiApp"
+        "mail": "hello@uniquesound.com",
+        "facebook": "https://www.facebook.com/uniquesoundoff",
+        "twitter": "https://twitter.com/UniqueSoundOff",
+        "linkedin": "https://www.linkedin.com/company/uniquesound"
+      }
+    },
+            {
+      "name": "Back Market",
+      "website": "backmarket.fr",
+      "status": "active",
+      "season": "Rise",
+      "pitch": "Back Market is the (super) market of reconditioned products.",
+      "connect": {
+        "mail": "hi@backmarket.fr",
+        "facebook": "https://www.facebook.com/backmarket/timeline",
+        "twitter": "https://twitter.com/back_market"
+      }
+    },
+      {
+      "name": "Eatrip",
+      "website": "eatripapp.com",
+      "status": "active",
+      "season": "Rise",
+      "pitch": "Mobile application: A culinary guide for every country you're visiting.",
+      "connect": {
+        "facebook": "https://www.facebook.com/eatripcommunity"
+      }
+    },
+          {
+      "name": "FrenchMedicine.com",
+      "website": "frenchmedicine.com",
+      "status": "active",
+      "season": "Rise",
+      "pitch": "FrenchMedicine is a vidioconference service which allows you to see a doctor, no matter where you are. It aims to improve care access for expatriates and French speaking populations.",
+      "connect": {
+        "facebook": "https://www.facebook.com/eatripcommunity"
+      }
+    },
+     {
+      "name": "La Box Culturelle",
+      "website": "blog.laboxculturelle.com",
+      "status": "active",
+      "season": "Rise",
+      "pitch": "The best of Parisian culture directly in your mailbox.",
+      "connect": {
+        "facebook": "https://www.facebook.com/eatripcommunity"
       }
     },
     {
-    "name": "Pulpix",
-    "website": "www.pulpix.co",
-    "status": "active",
-    "season": "6",
-    "pitch": "The bonus layer for online videos",
-    "connect": {
-      "mail": "hello@pulpix.co",
-      "twitter": "http://twitter.com/pulpix"
-    }
-  },
+      "name": "La Chouette à Lunettes",
+      "website": "",
+      "status": "active",
+      "season": "Rise",
+      "pitch": "A book + an application to read stories in a brand new way.",
+      "connect": {
+        "facebook": "https://www.facebook.com/chouettealunettes/",
+        "twitter": "https://twitter.com/chouettemyope"
+      }
+    },
     {
-    "name": "SharePay",
-    "website": "sharepayers.com",
-    "status": "active",
-    "season": "6",
-    "pitch": "Pay together, in real-time",
-    "connect": {
-      "mail": "contact@sharepay.fr",
-      "facebook": "https://www.facebook.com/SharePay",
-      "twitter": "http://twitter.com/sharepayers"
-    }
-  },
-  {
-    "name": "Drust",
-    "website": "drust.io",
-    "status": "active",
-    "season": "6",
-    "pitch": "Drust est l'objet connecté qui vous permet de communiquer avec votre voiture pour comprendre l'origine des pannes et vous redirige vers un garagiste de confiance.",
-    "connect": {
-      "mail": "contact@drust.io",
-      "facebook": "https://www.facebook.com/meetdrust",
-      "twitter": "http://twitter.com/meetdrust"
-    }
-  },
-  {
+      "name": "Listen Ensemble",
+      "website": "listenensemble.com",
+      "status": "active",
+      "season": "Rise",
+      "pitch": "Listen Ensemble is a chamber music orchestra that shapes its projects around digital culture and new technologies.",
+      "connect": {
+        "facebook": "https://www.facebook.com/listenensemble",
+        "twitter": "https://twitter.com/ListenEnsemble"
+      }
+    },
+        {
+      "name": "Needelp",
+      "website": "needelp.com",
+      "status": "active",
+      "season": "Rise",
+      "pitch": "The mutual assistance between neighbours! Home improvement, cleaning, delivery...",
+      "connect": {
+        "facebook": "https://www.facebook.com/needelp",
+        "twitter": "https://twitter.com/needelp"
+      }
+    },
+    {
+      "name": "Noosfeer",
+      "website": "noosfeer.com",
+      "status": "active",
+      "season": "Rise",
+      "pitch": "Use Noosfeer to enhance your reading experience and stop accumulating stuff you'll never read.",
+      "connect": {
+        "facebook": "https://www.facebook.com/Noosfeer-224306501068711/timeline"
+      }
+    },
+      {
+      "name": "Ouishare",
+      "website": "ouishare.net",
+      "status": "active",
+      "season": "Rise",
+      "pitch": "OuiShare is a global community that connects people, organisations and ideas around fairness, openness and trust",
+      "connect": {
+        "facebook": "https://www.facebook.com/OuiShare/",
+        "twitter": "https://twitter.com/OuiShare"
+      }
+    },
+    {
+      "name": "Pythagora",
+      "website": "pythagora.com",
+      "status": "active",
+      "season": "Rise",
+      "pitch": "The platform for educative videos.",
+      "connect": {
+        "facebook": "https://www.facebook.com/Pythagora-336923876356129/",
+        "twitter": "https://twitter.com/pythagora"
+      }
+    },
+      {
+      "name": "Self Ad",
+      "website": "self-ad.com",
+      "status": "active",
+      "season": "Rise",
+      "pitch": "Catch a satisfaction, sell true advertisement",
+      "connect": {
+        "twitter": "https://twitter.com/self_ad"
+      }
+    },
+    {
+      "name": "Skappy",
+      "website": "skappy.co",
+      "status": "active",
+      "season": "Rise",
+      "pitch": "Skappy is an online anti-stress personal assistant.",
+      "connect": {
+       "facebook": "https://www.facebook.com/coach.anti.stress.digital/",
+        "twitter": "https://twitter.com/skappy_esanted"
+      }
+    },
+      {
+      "name": "Social Media Club France",
+      "website": "socialmediaclub.fr",
+      "status": "active",
+      "season": "Rise",
+      "pitch": "The Social Media Club is an association for new media experts who meetup on a weekly basis to explore and showcase the latest industry trends.",
+      "connect": {
+       "facebook": "https://www.facebook.com/smcfrance/",
+        "twitter": "https://twitter.com/smcfrance"
+      }
+    },
+          {
+      "name": "Yalokiboo",
+      "status": "dead",
+      "season": "Rise",
+      "pitch": "Yalokiboo helps you organize and enjoy diner time everyday.",
+      "connect": {
+       "facebook": "https://www.facebook.com/yalokiboo/",
+        "twitter": "https://twitter.com/yalokiboo"
+      }
+    },
+      {
     "name": "Agriconomie",
-    "website": "www.agriconomie.com",
+    "website": "agriconomie.com",
     "status": "active",
     "season": "5",
-    "pitch": "Agriconomie est le premier site de vente en ligne destiné aux achats agricoles.",
-    "connect": {}
+    "pitch": "Agriconomie is a B2B market place specialised in the agricultural sector. It creates a more efficient bridge between farmers and their products and inputs suppliers.",
+    "connect": {
+      "mail": "founders@agriconomie.com",
+      "facebook": "https://www.facebook.com/Agriconomie/timeline",
+      "twitter": "https://twitter.com/agriconomie",
+      "linkedin": "https://www.linkedin.com/company/agriconomie-france"
+    }
   },
   {
     "name": "Artips",
     "website": "artips.fr",
     "status": "active",
     "season": "5",
-    "pitch": "Artips, une dose d'art au quotidien : www.artips.fr\nRecevez chaque jour une anecdote inattendue sur une oeuvre d'art connue ou moins connue. \nUn email à lire en une minute.",
+    "pitch": "Artips sends a daily anecdote, witty and memorable, about an art masterpiece, to be read in 1 minute only. Artips makes art and its history more accessible both in terms of content and mobility.",
     "connect": {
-      "mail": "colineetjean@artips.fr",
+      "mail": "founders@artips.fr",
       "facebook": "https://www.facebook.com/artipsfr",
       "twitter": "http://twitter.com/Artips_fr"
     }
   },
   {
     "name": "BandSquare",
-    "website": "www.bandsquare.com",
+    "website": "bandsquare.com",
     "status": "active",
     "season": "5",
-    "pitch": "BandSquare rapproche artistes et fans pour créer ensemble des concerts exceptionnels et vivre des moments privilégiés.",
+    "pitch": "BandSquare enable emerging artists to perform on stage thanks to a ticketing system based on crowdfunding principles: if enough people book their tickets, the concert is confirmed. We bring the venues, we have the audience. The production risk of an emerging artist is mutualised.",
     "connect": {
       "mail": "contact@bandsquare.fr",
       "facebook": "https://www.facebook.com/BandSquare.liveconcerts",
-      "twitter": "http://twitter.com/bandsquarelive"
+      "twitter": "http://twitter.com/bandsquarelive",
+      "linkedin": "https://www.linkedin.com/company/bandsquare"
     }
   },
   {
     "name": "Hublo",
-    "website": "www.hublo.com",
+    "website": "hublo.com",
     "status": "active",
     "season": "5",
-    "pitch": "Engagement analytics without coding.",
+    "pitch": "Hublo allows marketers to set-up tracking for web analytics on their site visually and without relying on their tech teams.",
     "connect": {
       "mail": "founders@hublo.co",
       "facebook": "https://www.facebook.com/leo.goffic",
       "twitter": "https://twitter.com/twyril",
-      "angelist": "http://www.angelist.co/hublo",
-      "linkedin": "http://www.linkedin.com/in/lescaon"
+      "angelist": "http://www.angelist.co/hublo"
     }
   },
   {
-    "name": "Krack",
-    "website": "krack.co",
+    "name": "Krak",
+    "website": "skatekrak.com",
     "status": "active",
     "season": "5",
-    "pitch": "hardware for skateboarders - we enhance the skateboarding experience - making them connect and compete b/w each others.",
+    "pitch": "Krak is a hardware device + app for skaters to allow them to track their sessions, share their tricks, discover news spots in their city",
     "connect": {
       "mail": "hello@krack.co",
-      "facebook": "http://facebook.com/heykrack",
-      "twitter": "http://www.twitter.com/heykrack",
-      "angelist": "http://www.angelist.co/krack"
+      "facebook": "https://www.facebook.com/skatekrak?_rdr=p",
+      "twitter": "https://twitter.com/skatekrak"
     }
   },
   {
     "name": "LocalEyes",
-    "website": "www.localeyes-app.com",
+    "website": "localeyes-app.com",
     "status": "active",
     "season": "5",
-    "pitch": "LOCALEYES is a mobile app that allows anyone to earn MONEY by answering questions and taking pictures in store for brands and retailers.",
+    "pitch": "LocalEyes is a mobile app that allows anyone to earn money on-the-go by collecting information in stores for brands and retailers. Brands and retailers can now check-on any product or service in real-time accross thousands of stores.",
     "connect": {
       "mail": "support@localeyes-app.com",
       "facebook": "https://www.facebook.com/localeyesapp",
@@ -305,7 +629,7 @@
   },
   {
     "name": "Qleek.me",
-    "website": "www.qleek.me",
+    "website": "qleek.me",
     "status": "active",
     "season": "5",
     "pitch": "Qleek allows you to share with people your digital life by putting your most beloved songs, films and photographs in the real world.",
@@ -317,10 +641,10 @@
   },
   {
     "name": "Realytics",
-    "website": "www.realytics.io",
+    "website": "realytics.io",
     "status": "active",
     "season": "5",
-    "pitch": "Real-time TV ads tracking for online businesses. Realytics break open the TV black box !",
+    "pitch": "Realytics is a real-time TV ads tracking platform for online businesses.Realitycs enables advertisers to precisely analyze the impact and ROI of each TV ad spot and help them to understand their visitors' behavior. ",
     "connect": {
       "mail": "hello@realytics.io",
       "facebook": "http://facebook.com/realyticsio",
@@ -330,7 +654,7 @@
   },
   {
     "name": "StreamRoot",
-    "website": "www.streamroot.io",
+    "website": "streamroot.io",
     "status": "active",
     "season": "5",
     "pitch": "StreamRoot is a smart peer-to-peer video streaming solution that drastically  reduces bandwidth costs for web video platforms, and improves the quality of service for the end users.",
@@ -346,7 +670,7 @@
     "website": "takes.io",
     "status": "active",
     "season": "5",
-    "pitch": "A simple way to get feedbacks on your videos, for videomakers, agencies, and production teams.",
+    "pitch": "Takes.io is a video making collaboration platform. It helps producers, directors and others work together on a single platform. It works with YouTube, Vimeo, Dailymotion. Instead of using email chains, you can share a private YouTube video with a client. You can directly comment and annotate videos on Takes.io",
     "connect": {
       "mail": "contact@taketracker.com",
       "facebook": "http://facebook.com/taketracker",
@@ -358,7 +682,7 @@
     "website": "tastehit.com",
     "status": "active",
     "season": "5",
-    "pitch": "TasteHit is a personalisation service for e-commerce websites",
+    "pitch": "TasteHit is a SaaS product recommendation engine for online shops that lets visitors control their shopping experience. Using state-of-the-art machine learning algorithms TasteHit understands shoppers' tastes and behaves as the best virtual salesperson by increasing conversion and making shoppers more loyal.",
     "connect": {
       "mail": "contact@tastehit.com",
       "facebook": "http://facebook.com/tastehit",
@@ -368,10 +692,10 @@
   },
   {
     "name": "Tripndrive",
-    "website": "pndrive.com",
+    "website": "tripndrive.com",
     "status": "active",
     "season": "5",
-    "pitch": "Tripndrive enables carsharing between travelers at the airport.\nOwners get a free parking.\nRenters get a car 60% cheaper than traditional car rental.",
+    "pitch": "Tripndrive enables car sharing for travellers. The departing traveller gets the use of a free parking space by renting their car at low cost to another traveller.",
     "connect": {
       "mail": "camille@tripndrive.com",
       "facebook": "http://www.facebook.com/Tripndrive",
@@ -381,10 +705,10 @@
   },
   {
     "name": "Auticiel",
-    "website": "www.auticiel.com",
+    "website": "auticiel.com",
     "status": "active",
     "season": "4",
-    "pitch": "We develop software tools that cognitively impaired people can use in the everyday life to better communicate, to better interact and to be better integrated in the society.",
+    "pitch": "Software tools to include cognitively impaired persons in society. With healthcare professionals and families, Auticiel develops adapted software to improve social insertion, school and emplyment accessibility for cognitively impaired persons.",
     "connect": {
       "mail": "contact@auticiel.com",
       "facebook": "https://www.facebook.com/pages/Auticiel/213886215369115",
@@ -394,10 +718,10 @@
   },
   {
     "name": "Cours avenue",
-    "website": "www.coursavenue.com",
+    "website": "coursavenue.com",
     "status": "active",
     "season": "4",
-    "pitch": "Geolocalized leisure courses (dance, music, art, etc.) search engine based on students recommendation.",
+    "pitch": "CoursAvenue.com is a free service that makes it easier to find, compare and enroll in all sorts of amazing classes at the best possible price. For the class providers, it facilitates their daily tasks and optimizes their booking rates.",
     "connect": {
       "mail": "contact@coursavenue.com",
       "facebook": "https://www.facebook.com/CoursAvenue",
@@ -406,10 +730,10 @@
   },
   {
     "name": "Darjeelin",
-    "website": "www.darjeelin.com",
+    "website": "darjeelin.com",
     "status": "exited",
     "season": "4",
-    "pitch": "The crowdsourced travel agency",
+    "pitch": "The crowdsourced travel agency helping you to save loads of time and tons of money.",
     "connect": {
       "mail": "hello@darjeelin.com",
       "facebook": "http://facebook.com/darjeelin.travel",
@@ -419,10 +743,10 @@
   },
   {
     "name": "Decovery",
-    "website": "www.decovery.fr",
+    "website": "decovery.fr",
     "status": "active",
     "season": "4",
-    "pitch": "Largest community of home design experts to help homeowners transform their interiors",
+    "pitch": "Decovery is a place where experts and home design enthusiasts get together to help you transform your interior. The team is now part of Côtémaisons.",
     "connect": {
       "mail": "contact@decovery.fr",
       "facebook": "http://facebook.com/Decovery",
@@ -432,11 +756,22 @@
     }
   },
   {
-    "name": "Lingocracy",
-    "website": "www.lingocracy.com",
+    "name": "Julie Desk",
+    "website": "juliedesk.com",
     "status": "active",
     "season": "4",
-    "pitch": "Improve your language skills by reading news",
+    "pitch": "Julie is a virtual assistant using artificial intelligence to schedule your meetings and appointments",
+    "connect": {
+      "mail": "contact@juliedesk.com",
+      "twitter": "https://www.juliedesk.com/en-GB"
+    }
+  },
+  {
+    "name": "Lingocracy",
+    "website": "lingocracy.com",
+    "status": "active",
+    "season": "4",
+    "pitch": "Lingocracy turns any web article into a personalised language session",
     "connect": {
       "mail": "yan@lingocracy.com",
       "facebook": "http://facebook.com/Lingocracy",
@@ -446,10 +781,10 @@
   },
   {
     "name": "Melusyn",
-    "website": "www.melusyn.com",
+    "website": "melusyn.com",
     "status": "active",
     "season": "4",
-    "pitch": "Film production management made fast and easy in the cloud",
+    "pitch": "Bring stories to real life. From script to production, work together to build, schedule and manage a story on PC/Mac and mobile.",
     "connect": {
       "mail": "hello@melusyn.com",
       "facebook": "http://facebook.com/MelusynFR",
@@ -459,7 +794,7 @@
   },
   {
     "name": "Pricing Assistant",
-    "website": "www.pricingassistant.com",
+    "website": "pricingassistant.com",
     "status": "active",
     "season": "4",
     "pitch": "Pricing optimization solution for e-merchants and brands",
@@ -473,10 +808,10 @@
   },
   {
     "name": "Smiirl",
-    "website": "www.smiirl.com",
+    "website": "smiirl.com",
     "status": "active",
     "season": "4",
-    "pitch": "Smart objects to integrate social media in real life",
+    "pitch": "Smiirl creates and builds smart objects for businesses and help them to reconnect their social identities to their physical presence.",
     "connect": {
       "mail": "r2d2@smiirl.com",
       "facebook": "http://facebook.com/smiirl",
@@ -486,22 +821,20 @@
     }
   },
   {
-    "name": "SOAP (ex znappit)",
-    "website": "www.soapapp.co",
+    "name": "SOAP",
+    "website": "soapapp.co",
     "status": "active",
     "season": "4",
-    "pitch": "SOAP is a mobile app that turns you life into a video story, on your own, or with your friends.",
+    "pitch": "Soap creates collaborative video souvenir of an event made from participants individuals videos.",
     "connect": {
       "mail": "we@znapp.it",
-      "facebook": "http://facebook.com/znappit",
-      "twitter": "http://www.twitter.com/znappit",
-      "angelist": "http://www.angelist.co/znappit",
-      "linkedin": "http://www.linkedin.com/company/znappit"
+      "facebook": "https://www.facebook.com/SOAPapp/info/?tab=page_info",
+      "twitter": "https://twitter.com/soapapp"
     }
   },
   {
     "name": "Sportdub",
-    "website": "www.sportdub.com",
+    "website": "sportdub.com",
     "status": "active",
     "season": "4",
     "pitch": "Live sport commentaries by sport fans, for sport fans.",
@@ -512,25 +845,11 @@
     }
   },
   {
-    "name": "Wepopp",
-    "website": "www.wepopp.com",
-    "status": "active",
-    "season": "4",
-    "pitch": "Easy planning with friends",
-    "connect": {
-      "mail": "contact@wepopp.com",
-      "facebook": "https://www.facebook.com/wepopp",
-      "twitter": "https://twitter.com/WePopp_",
-      "angelist": "https://angel.co/wepopp",
-      "linkedin": "http://www.linkedin.com/company/popp-"
-    }
-  },
-  {
     "name": "Zéro-gâchis",
-    "website": "www.zero-gachis.com",
+    "website": "zero-gachis.com",
     "status": "active",
     "season": "4",
-    "pitch": "Fights against food waste by providing tools and services to the supermarkets.",
+    "pitch": "A mobile and web platform where consumers can locate the discount (-30 to 70%) applied on the sell-by date products in the partners supermarkets around them.",
     "connect": {
       "mail": "contact@zero-gachis.com",
       "facebook": "http://facebook.com/ZeroGachis",
@@ -541,10 +860,10 @@
   },
   {
     "name": "Augment",
-    "website": "agmt.co",
+    "website": "augmentedev.com",
     "status": "active",
     "season": "3",
-    "pitch": "Augment is a mobile app that lets you and your customers visualize your 3D models in Augmented Reality, integrated in real time in their actual size and environment. Augment is the perfect Augmented Reality app to boost your sales and bring your print to life in 3 simple steps.",
+    "pitch": "Augment allows anyone to view instantly a product or object in their home using augmented reality before buying to be sure that it suits them. This removes one of the main obstascles to purchasing online",
     "connect": {
       "mail": "contact@agmt.co",
       "facebook": "https://www.facebook.com/pages/AugmenteDev/190277567680189?ref=hl",
@@ -558,7 +877,7 @@
     "website": "explee.com",
     "status": "active",
     "season": "3",
-    "pitch": "Create amazing animated videos and presentations, engage your audience!",
+    "pitch": "Explee is an online software which allows anyone to create awesome animated videos.",
     "connect": {
       "mail": "contact@explee.com",
       "facebook": "http://facebook.com/explee",
@@ -571,7 +890,7 @@
     "website": "fleex.tv",
     "status": "active",
     "season": "3",
-    "pitch": "We help people get better at English watching the videos they love.",
+    "pitch": "Learn English with your favorite movies and TV shows, choosing from a variety of sources including torrents, downloaded video files, and YouTube videos.",
     "connect": {
       "mail": "contact@fleex.tv",
       "facebook": "https://www.facebook.com/fleextv",
@@ -584,7 +903,7 @@
     "website": "homengo.com",
     "status": "active",
     "season": "3",
-    "pitch": "Home’n’go est un service entièrement gratuit qui centralise toutes les annonces immobilières des principaux sites immobiliers et vous permet, grâce à des données privées et publiques, d’obtenir des informations détaillées et pertinentes concernant la vie autour du logement qui vous intéresse.\nPrécisez vos critères en quelques clics pour faire le tri dans plusieurs millions d’annonces et utilisez votre espace privé pour gérer celles qui vous plaisent, y inviter vos amis ou votre famille pour vous faire aider dans votre recherche, accéder aux informations relatives à la zone du logement et faire le bon choix !",
+    "pitch": "Looking for a new place to live? Find all the real estate listings & information and team up with the relevant people with whom you'll share it on one single platform.",
     "connect": {
       "mail": "contact@homengo.com",
       "facebook": "http://facebook.com/homengofan",
@@ -595,10 +914,10 @@
   },
   {
     "name": "Jellynote",
-    "website": "www.jellynote.com",
+    "website": "jellynote.com",
     "status": "active",
     "season": "3",
-    "pitch": "♬ Everything you need pour play music ♪ A Guitar Hero with real music & real instruments ♬",
+    "pitch": "Jellynote is a social platform for musicians to help them play and learn music. You can read sheet music online, enrich them with videos and share to your friends.",
     "connect": {
       "mail": "support@jellynote.com",
       "facebook": "https://www.facebook.com/JellyNote",
@@ -608,11 +927,11 @@
     }
   },
   {
-    "name": "Lima (ex ForgetBox)",
+    "name": "Lima ",
     "website": "meetlima.com",
     "status": "active",
     "season": "3",
-    "pitch": "Lima is the first product to unify the memory of all your devices. It manages your files instead of Windows, Mac OS or your mobile OS, so all your devices display the same content at all times. \n\nNow, all your PC files are also in your smartphone. Every file you save is saved on all your devices. Re-organize one of your devices, it reorganizes all of them.",
+    "pitch": "Lima is a revolutionary and innovative technology that consolidates all of your content, enabling you to see the same files on all of your devices regardless of operating system or device size. Composed of a smart hardware adapter and a multi-platform app, Lima enables users to easily and seamlessly access their entire digital library from all of their devices, wherever they are.",
     "connect": {
       "mail": "team@meetlima.com",
       "facebook": "https://www.facebook.com/MeetLima",
@@ -622,25 +941,11 @@
     }
   },
   {
-    "name": "Poutsh",
-    "website": "poutsch.com",
-    "status": "active",
-    "season": "3",
-    "pitch": "Collect, express and make sense of opinions.",
-    "connect": {
-      "mail": "melchior@poutsch.com",
-      "facebook": "http://facebook.com/poutsch",
-      "twitter": "http://www.twitter.com/poutsch",
-      "angelist": "http://www.angelist.co/poutsch",
-      "linkedin": "http://www.linkedin.com/poutsch"
-    }
-  },
-  {
     "name": "Sketchfab",
     "website": "sketchfab.com",
     "status": "active",
     "season": "3",
-    "pitch": "Sketchfab is the web platform to publish your interactive 3D models.",
+    "pitch": "Sketchfab is a web service to publish, share and embed interactive 3D models on web pages, and display them in real-time without a plug-in.",
     "connect": {
       "facebook": "http://facebook.com/sketchfab",
       "twitter": "http://www.twitter.com/sketchfab",
@@ -653,7 +958,7 @@
     "website": "stormz.me",
     "status": "active",
     "season": "3",
-    "pitch": "Meetings are boring and ineffective! \n\nWe design solutions that change the way we work together. Use Stormz (http://stormz.me) to facilitate awesome collaborative workshops and get Deezco (http://deez.co) to gather advices and take decisions that will grow your business.",
+    "pitch": "By combining methodology and digital technology, Stormz designs and facilitates huge collaborative events that engage your teams",
     "connect": {
       "mail": "contact@stormz.me",
       "facebook": "http://facebook.com/stormz.me",
@@ -674,12 +979,25 @@
       "angelist": "https://angel.co/veezio"
     }
   },
+    {
+    "name": "Voice Polls ex Poutsch",
+    "website": "voicepolls.com",
+    "status": "active",
+    "season": "3",
+    "pitch": "Poutsch facilitates the way we collect, express and make sense of opinions. The team is now working on Voice Polls that allows businesses to easily have answers from their consumers before taking decisions.",
+    "connect": {
+      "mail": "hello@voicepolls.com",
+      "facebook": "https://www.facebook.com/appvoice/?fref=ts",
+      "twitter": "https://twitter.com/app_voice",
+      "linkedin": "http://www.linkedin.com/poutsch"
+    }
+  },
   {
     "name": "Webshell",
     "website": "oauth.io",
     "status": "active",
     "season": "3",
-    "pitch": "Webshell enables web and mobile developers to make application faster by saving 80% of time for using APIs. Webshell is the team behind OAuth.io.",
+    "pitch": "Webshell allows companies to create a community of developers around their data or services through a platform for developing web applications and mobile-oriented open innovation. The team is now working on OAuth.io described as the highway to API integration!",
     "connect": {
       "mail": "contact@webshell.io",
       "twitter": "http://twitter.com/OAuth_io",
@@ -691,7 +1009,7 @@
     "website": "",
     "status": "active",
     "season": "3",
-    "pitch": "",
+    "pitch": "Whale Street develops a SaaS platform that helps finance professionals take better investment decisions by extracting relevant signals in real time from social media and the web.",
     "connect": {}
   },
   {
@@ -699,15 +1017,15 @@
     "website": "",
     "status": "dead",
     "season": "2",
-    "pitch": "",
+    "pitch": "HereWeDate is a fun way to meet new people: play the game! ",
     "connect": {}
   },
   {
     "name": "Infinit",
-    "website": "www.infinit.io",
+    "website": "infinit.io",
     "status": "active",
     "season": "2",
-    "pitch": "A fast, elegant and unlimited file transfer application for creative people.",
+    "pitch": "The mobile and desktop app that lets you send files of unlimited size.",
     "connect": {
       "mail": "contact@infinit.io",
       "facebook": "https://www.facebook.com/infinitdotio",
@@ -718,10 +1036,10 @@
   },
   {
     "name": "LoungeUp",
-    "website": "www.loungeup.com",
+    "website": "loungeup.com",
     "status": "active",
     "season": "2",
-    "pitch": "Mobile Guest Relationship Management Platform for the hospitality industry",
+    "pitch": "LoungeUp is a solution that allows hoteliers to interact with their guests before, during, and after their stay, improving revenue, guest satisfaction and knowledge of their consumer habits.",
     "connect": {
       "mail": "contact@loungeup.com",
       "facebook": "http://facebook.com/loungeup",
@@ -746,15 +1064,15 @@
     "website": "",
     "status": "dead",
     "season": "2",
-    "pitch": "",
+    "pitch": "Onefeat is a social game where people achieve missions and earn points according to what they do in real life.",
     "connect": {}
   },
   {
     "name": "Pictarine",
-    "website": "www.pictarine.com",
+    "website": "pictarine.com",
     "status": "active",
     "season": "2",
-    "pitch": "Pictarine aggregates your photos from your social networks",
+    "pitch": "Pictarine includes all the photos of your social networks in one app. A great experience to enjoy all your photos and those of your friends posted on Facebook, Twitter, Instagram, Flickr, Tumblr... ",
     "connect": {
       "mail": "contact@pictarine.com",
       "facebook": "http://facebook.com/pictarine",
@@ -765,10 +1083,10 @@
   },
   {
     "name": "Pili Pop",
-    "website": "www.pilipop.com",
+    "website": "pilipop.com",
     "status": "active",
     "season": "2",
-    "pitch": "We create stimulating and engaging apps for youngsters to help them find the fun in learning languages.",
+    "pitch": "Pili Pop creates stimulating and engaging apps for youngsters to help them find the fun in learning languages.",
     "connect": {
       "mail": "hello@pilipop.com",
       "facebook": "http://facebook.com/pilipoplabs",
@@ -795,7 +1113,7 @@
     "website": "siz.io",
     "status": "active",
     "season": "2",
-    "pitch": "Siz.io. Social bookmarking for videos. Sponsored content campaigns for brands.",
+    "pitch": "Your source of the Internet best content.",
     "connect": {
       "mail": "contact@siz.io",
       "facebook": "http://facebook.com/siz.io",
@@ -809,15 +1127,15 @@
     "website": "",
     "status": "dead",
     "season": "2",
-    "pitch": "",
+    "pitch": "Skimm!, a disruptive, entirely software-based mobile payment system, enables its users to pay in participating stores, redeem promotional coupons and process user-to-user transactions.",
     "connect": {}
   },
   {
-    "name": "TVShow Time (Toze Labs SAS)",
-    "website": "www.tvshowtime.com",
+    "name": "TVShow Time",
+    "website": "tvshowtime.com",
     "status": "active",
     "season": "2",
-    "pitch": "TVShow Time lets you track, comment and watch your TV shows.",
+    "pitch": "Following the news of TV series was an ordeal. TVShow Time makes this easy by providing a single place for all the news, information and fan arts related to the series that you follow. ",
     "connect": {
       "mail": "founders@tvshowtime.com",
       "facebook": "www.facebook.com/tvshowtime",
@@ -826,7 +1144,7 @@
   },
   {
     "name": "WeCook",
-    "website": "www.wecook.fr",
+    "website": "wecook.fr",
     "status": "active",
     "season": "2",
     "pitch": "WeCook help you to plan your family week of meals and grocery list with highly personalized recommendation",
@@ -838,10 +1156,10 @@
   },
   {
     "name": "Bankin'",
-    "website": "www.bankin.com",
+    "website": "bankin.com",
     "status": "active",
     "season": "1",
-    "pitch": "La meilleure App pour gérer ses finances.",
+    "pitch": "Take care of your money: all your bank accounts, in real-time, in one single app.",
     "connect": {
       "facebook": "https://www.facebook.com/ilovebankin",
       "twitter": "https://twitter.com/bankin"
@@ -849,7 +1167,7 @@
   },
   {
     "name": "Beansight",
-    "website": "www.beansight.com",
+    "website": "beansight.com",
     "status": "dead",
     "season": "1",
     "pitch": "A social network dedicated to predictions. Users can prove their expertise in dedicated fields thanks to their accuracy in forecast.",
@@ -861,7 +1179,7 @@
   },
   {
     "name": "Dabla",
-    "website": "www.dabla.com",
+    "website": "dabla.com",
     "status": "active",
     "season": "1",
     "pitch": "Dabla keeps you connected with your friends & family. Cross-device apps as easy to use as SMS and especially made for groups.",
@@ -876,7 +1194,7 @@
     "website": "doctrackr.com",
     "status": "exited",
     "season": "1",
-    "pitch": "docTrackr helps businesses keep their documents safe and under control, wherever they're stored, whomever they're shared with.",
+    "pitch": "docTrackr helps businesses keep their documents safe and secure, wherever they're stored, whomever they're shared with. DocTrackr was acquired by Intralinks in 2014.",
     "connect": {
       "mail": "contact@doctrackr.com",
       "facebook": "https://www.facebook.com/doctrackrapp",
@@ -889,7 +1207,7 @@
     "website": "",
     "status": "dead",
     "season": "1",
-    "pitch": "",
+    "pitch": "Itipic offers a generic basket and private interface store and share product visuals with semantic information linked to their original websites.",
     "connect": {}
   },
   {
@@ -897,7 +1215,7 @@
     "website": "madebykawet.com",
     "status": "exited",
     "season": "1",
-    "pitch": "All-in-one solution to create & manage native apps for your enterprise.",
+    "pitch": "All-in-one solution to create & manage native apps for your enterprise. Acquired by Phenix Groupe in 2013.",
     "connect": {
       "mail": "hello@madebykawet.com",
       "facebook": "http://facebook.com/madebykawet",
@@ -908,10 +1226,10 @@
   },
   {
     "name": "Mesagraph",
-    "website": "www.mesagraph.com",
+    "website": "mesagraph.com",
     "status": "exited",
     "season": "1",
-    "pitch": "Mesagraph unlocks the value contained in online conversations.",
+    "pitch": "Mesagraph is a service that builds bundles of information from Social Media which are relevant and useful for its users. Mesagraph is now part of Twitter. ",
     "connect": {
       "facebook": "http://www.facebook.com/Mesagraph",
       "twitter": "http://www.twitter.com/Mesagraph"
@@ -919,18 +1237,18 @@
   },
   {
     "name": "P1Security",
-    "website": "www.p1sec.com",
+    "website": "p1sec.com",
     "status": "active",
     "season": "1",
-    "pitch": "Security for Mobile, Telecom and Core Networks.",
+    "pitch": "Software editor and SaaS provider for security solutions to detect weaknesses in the telecom Core Network, monitor attacks and steer attackers",
     "connect": {}
   },
   {
     "name": "PrepMyFuture // Everlearn",
-    "website": "www.everlearn-technology.com",
+    "website": "everlearn-technology.com",
     "status": "active",
     "season": "1",
-    "pitch": "adaptive learning technology",
+    "pitch": "Everlearn makes great adaptive e-learning products with your content.",
     "connect": {
       "mail": "contact@prepmyfuture.com",
       "facebook": "http://facebook.com/prepmyfuture",
@@ -943,7 +1261,7 @@
     "website": "skerou.com",
     "status": "active",
     "season": "1",
-    "pitch": "Je suis une appli mobile gratuite pour préparer vos courses et bénéficier de promotions exclusives, grâce à l'analyse de votre ticket de caisse de supermarché.",
+    "pitch": "Skerou is a free mobile app that helps you prepare and benefit of exclusive promotions thanks to the analysis of your supermarket receipt",
     "connect": {
       "mail": "contact@skerou.com",
       "facebook": "http://facebook.com/skerou",
@@ -954,7 +1272,7 @@
   },
   {
     "name": "Studyka",
-    "website": "www.studyka.com",
+    "website": "studyka.com",
     "status": "active",
     "season": "1",
     "pitch": "Studyka organizes student challenges across the globe to connect student teams with companies and identify the leaders of tomorrow!",
@@ -968,7 +1286,7 @@
     "website": "",
     "status": "dead",
     "season": "1",
-    "pitch": "",
+    "pitch": "Zifiz provides a retail tool for consumers to purchase, or find nearby products in real-time.",
     "connect": {}
   }
 ]
