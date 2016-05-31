@@ -120,6 +120,18 @@
       }
     },
  {
+      "name": "Truckfly",
+      "website": "truckfly.com",
+      "status": "active",
+      "season": "8",
+      "pitch": "Truckfly helps companies find the right carrier for their loads by connecting them to truckers driving empty in their area.",
+      "connect": {
+        "mail": "contact@truckfly.com",
+        "facebook": "https://www.facebook.com/truckflyapp",
+        "twitter": "https://twitter.com/truckfly"
+      }
+    },
+ {
       "name": "Budeal",
       "website": "budeal.com",
       "status": "dead",
