@@ -42,9 +42,21 @@
       "season": "8",
       "pitch": "DeployStation is a multi-platform application for game server creation and its easy management",
       "connect": {
-        "mail": "",
+        "mail": "contact@deploystation.com",
         "facebook": "https://www.facebook.com/DeployStation/",
         "twitter": "https://twitter.com/DeployStation"
+      }
+    },
+  {
+      "name": "Energy Square",
+      "website": "energysquare.co",
+      "status": "active",
+      "season": "8",
+      "pitch": "EnergySquare reinvents mobile charging with a new patented wireless technology that allows users to charge several devices on a large and thin surface.",
+      "connect": {
+        "mail": "",
+        "facebook": "https://www.facebook.com/energysquare.co,
+        "twitter": "https://twitter.com/energysquare_co"
       }
     },
  {
