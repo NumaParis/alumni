@@ -11,6 +11,18 @@
         "twitter": "https://twitter.com/bienvenue_telco"
       }
     },
+     {
+      "name": "Blueboard",
+      "website": "blueboard.it",
+      "status": "active",
+      "season": "8",
+      "pitch": "Make better eCommerce decisions for your brand. BlueBoard is a B2B tracking tool that allows real-time monitoring of your products at your online retailers.",
+      "connect": {
+        "mail": "team@blueboard.it",
+        "facebook": "https://www.facebook.com/blueboarditapp",
+        "twitter": "https://twitter.com/blueboardit"
+      }
+    },
  {
       "name": "Budeal",
       "website": "budeal.com",
