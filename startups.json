@@ -78,9 +78,21 @@
       "season": "8",
       "pitch": "Koober selects and compresses the best non fiction books. Koober is a web and mobile app that offers hundreds of curated non fiction book summaries to read in less than 30 minutes. In other words with Koober you can read books without actually reading them...",
       "connect": {
-        "mail": "",
+        "mail": "contact@kooblit.com",
         "facebook": "https://www.facebook.com/kooberr",
         "twitter": "https://twitter.com/Teamkoober"
+      }
+    },
+     {
+      "name": "Meloflow",
+      "website": "get.meloflow.com",
+      "status": "active",
+      "season": "8",
+      "pitch": "Meloflow is an iOS app designed to help learning and practicing a musical instrument. Pick a song, start playing, Meloflow will give you instants feedback, plays along with you, tracks your speed automatically in real time and much more! ",
+      "connect": {
+        "mail": "contact@meloflow.com",
+        "facebook": "https://www.facebook.com/MeloflowApp",
+        "twitter": "https://twitter.com/MeloflowMusic"
       }
     },
  {
