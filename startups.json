@@ -168,6 +168,18 @@
       }
     },
  {
+      "name": "Zack",
+      "website": "hellozack.fr",
+      "status": "active",
+      "season": "8",
+      "pitch": "Zack is a hassle-free service that sells your extra stuff for you. Just sit back in your couch, send us a text and we take care of the rest. Pick up, selling, packaging, Zack handles everything. You get money, free space, and give a second life to your items.",
+      "connect": {
+        "mail": "contact@hellozack.fr",
+        "facebook": "https://www.facebook.com/HelloZackFR",
+        "twitter": "https://twitter.com/HelloZackFR"
+      }
+    },
+ {
       "name": "Budeal",
       "website": "budeal.com",
       "status": "dead",
