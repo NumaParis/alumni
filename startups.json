@@ -144,6 +144,18 @@
       }
     },
  {
+      "name": "Workiz",
+      "website": "workiz.com",
+      "status": "active",
+      "season": "8",
+      "pitch": "Workiz enables companies to enhance their sales force and accelerate their growth thanks to students paid on success-fees.",
+      "connect": {
+        "mail": "hello@workiz.com",
+        "facebook": "https://www.facebook.com/workizfr",
+        "twitter": "https://twitter.com/WorkizTeam"
+      }
+    },
+ {
       "name": "Budeal",
       "website": "budeal.com",
       "status": "dead",
