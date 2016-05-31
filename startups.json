@@ -156,6 +156,18 @@
       }
     },
  {
+      "name": "Yellow",
+      "website": "yellw.co",
+      "status": "active",
+      "season": "8",
+      "pitch": "Yellow is a virtual discovery application for Snapchat generation. Add a selfie, your snapchat username and start swiping through profiles. Once you get matches, send messages to your new friends before adding them on Snapchat.",
+      "connect": {
+        "mail": "hello@yellw.co",
+        "facebook": "https://www.facebook.com/yellowapp",
+        "twitter": "https://twitter.com/yellwapp"
+      }
+    },
+ {
       "name": "Budeal",
       "website": "budeal.com",
       "status": "dead",
