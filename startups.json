@@ -35,6 +35,18 @@
         "twitter": "https://twitter.com/Buffactory"
       }
     },
+{
+      "name": "Deploy Station",
+      "website": "deploystation.com",
+      "status": "active",
+      "season": "8",
+      "pitch": "DeployStation is a multi-platform application for game server creation and its easy management",
+      "connect": {
+        "mail": "",
+        "facebook": "https://www.facebook.com/DeployStation/",
+        "twitter": "https://twitter.com/DeployStation"
+      }
+    },
  {
       "name": "Budeal",
       "website": "budeal.com",
