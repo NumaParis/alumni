@@ -12,7 +12,7 @@ mafiapp.controller('StartupCtrl', function($scope, Startup) {
 
 // transforms email addresses to mailto: strings
 mafiapp.filter('mailto', function() {
-  var replacePattern = /(\w+@[a-zA-Z_]+?\.[a-zA-Z]{2,6})/gim;
+  var replacePattern = /(\w+@[a-zA-Z_-]+?\.[a-zA-Z]{2,6})/gim;
   
     return function(text) {        
       if(text.match(replacePattern)) {
