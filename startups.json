@@ -132,6 +132,18 @@
       }
     },
  {
+      "name": "Willty",
+      "website": "willty.com",
+      "status": "active",
+      "season": "8",
+      "pitch": "Willty is a customer engagement platform for fitness clubs who lose their clients too quickly. It provides automated tools to engage with members and turn them into ideal customers which generate more revenue for the gym. Willty is already working with 40+ clubs and engaging with their 40000+ members daily.",
+      "connect": {
+        "mail": "contact@willty.com",
+        "facebook": "https://www.facebook.com/willtysport/",
+        "twitter": "https://twitter.com/willtysport"
+      }
+    },
+ {
       "name": "Budeal",
       "website": "budeal.com",
       "status": "dead",
