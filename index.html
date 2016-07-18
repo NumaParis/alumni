@@ -10,11 +10,11 @@
     <link href='https://fonts.googleapis.com/css?family=Roboto:200,400' rel='stylesheet' type='text/css' />
     <link href="style.css" rel='stylesheet' />
     <link rel="icon" href="http://paris.numa.co/design/white/images/favicon.ico" />
-    
+
     <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.3.0-beta.5/angular.min.js"></script>
     <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.3.0-beta.5/angular-resource.min.js"></script>
     <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.3.0-beta.5/angular-sanitize.min.js"></script>
-    
+
     <script src="app.js"></script>
 
 </head>
@@ -27,6 +27,17 @@
         </h1>
 
 <div class="filters">
+  <select ng-model="cityFilter">
+    <option value="" selected>All cities</option>
+    <option value="par">Paris</option>
+    <option value="blr">Bengaluru</option>
+    <option value="cas">Casablanca</option>
+    <option value="mos">Moscow</option>
+    <option value="mex">Mexico</option>
+    <option value="bcn">Barcelona</option>
+    <option value="mpl">Montpellier</option>
+  </select>
+
   <select ng-model="seasonFilter">
     <option value="" selected>All seasons</option>
     <option value="1">1</option>
@@ -45,17 +56,18 @@
     <option value="exited">Exited</option>
     <option value="dead">Dead</option>
   </select>
-  
+
   <input ng-model="searchText" placeholder="Search">
 </div>
 
         <table class="startups" ng-controller="StartupCtrl">
-        
+
           <tr>
               <th></th>
               <th>name</th>
               <th>website</th>
               <th class="center">status</th>
+              <th class="center">city</th>
               <th class="center">season</th>
               <th class="center">pitch</th>
               <th class="center">connect</th>
@@ -77,6 +89,9 @@
             </td>
             <td class="season">
               <span>{{startup.season}}</span>
+            </td>
+            <td class="season">
+              <span>{{startup.city}}</span>
             </td>
             <td class="pitch" ng-bind-html="startup.pitch | linky"></td>
             <td class="connect">
@@ -102,7 +117,7 @@
               </p>
             </td>
             <td>
-                
+
             </td>
             <td class="small small-right">
               <p>
@@ -112,7 +127,7 @@
         </tr>
     </table>
     </div>
-    
+
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
