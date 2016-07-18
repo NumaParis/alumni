@@ -72,7 +72,7 @@
               <th class="center">pitch</th>
               <th class="center">connect</th>
           </tr>
-          <tr ng-repeat="startup in startups | filter:searchText | filter:{status:cityFilter} | filter:{status:statusFilter} | filter:{season:seasonFilter}">
+          <tr ng-repeat="startup in startups | filter:searchText | filter:{city:cityFilter} | filter:{status:statusFilter} | filter:{season:seasonFilter}">
             <td class="favicon">
               <img src="http://www.google.com/s2/favicons?domain={{startup.website}}" />
             </td>
