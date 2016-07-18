@@ -29,13 +29,13 @@
 <div class="filters">
   <select ng-model="cityFilter">
     <option value="" selected>All cities</option>
-    <option value="par">Paris</option>
-    <option value="blr">Bengaluru</option>
-    <option value="cas">Casablanca</option>
-    <option value="mos">Moscow</option>
-    <option value="mex">Mexico</option>
-    <option value="bcn">Barcelona</option>
-    <option value="mpl">Montpellier</option>
+    <option value="paris">Paris</option>
+    <option value="bengaluru">Bengaluru</option>
+    <option value="casablanca">Casablanca</option>
+    <option value="moscow">Moscow</option>
+    <option value="mexico">Mexico</option>
+    <option value="barcelona">Barcelona</option>
+    <option value="montpellier">Montpellier</option>
   </select>
 
   <select ng-model="seasonFilter">
@@ -87,11 +87,11 @@
             <td class="status">
               <img src="img/icon-{{startup.status}}.png" alt="{{startup.status}}" title="{{startup.status}}" />
             </td>
-            <td class="season">
-              <span>{{startup.season}}</span>
+            <td class="city">
+              <span>{{startup.city}}</span>
             </td>
             <td class="season">
-              <span>{{startup.city}}</span>
+              <span>{{startup.season}}</span>
             </td>
             <td class="pitch" ng-bind-html="startup.pitch | linky"></td>
             <td class="connect">
