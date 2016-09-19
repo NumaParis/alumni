@@ -903,7 +903,7 @@
   {
     "name": "Decovery",
     "website": "decovery.fr",
-    "status": "active",
+    "status": "exited",
     "city": "paris", "season": "4",
     "pitch": "Decovery is a place where experts and home design enthusiasts get together to help you transform your interior. The team is now part of Côtémaisons.",
     "connect": {
@@ -982,7 +982,7 @@
   {
     "name": "SOAP",
     "website": "soapapp.co",
-    "status": "active",
+    "status": "dead",
     "city": "paris", "season": "4",
     "pitch": "Soap creates collaborative video souvenir of an event made from participants individuals videos.",
     "connect": {
@@ -994,7 +994,7 @@
   {
     "name": "Sportdub",
     "website": "sportdub.com",
-    "status": "active",
+    "status": "dead",
     "city": "paris", "season": "4",
     "pitch": "Live sport commentaries by sport fans, for sport fans.",
     "connect": {
@@ -1047,7 +1047,7 @@
   {
     "name": "Fleex",
     "website": "fleex.tv",
-    "status": "active",
+    "status": "exited",
     "city": "paris", "season": "3",
     "pitch": "Learn English with your favorite movies and TV shows, choosing from a variety of sources including torrents, downloaded video files, and YouTube videos.",
     "connect": {
@@ -1166,7 +1166,7 @@
   {
     "name": "Whale Street",
     "website": "",
-    "status": "active",
+    "status": "dead",
     "city": "paris", "season": "3",
     "pitch": "Whale Street develops a SaaS platform that helps finance professionals take better investment decisions by extracting relevant signals in real time from social media and the web.",
     "connect": {}
@@ -1243,7 +1243,7 @@
   {
     "name": "Pili Pop",
     "website": "pilipop.com",
-    "status": "active",
+    "status": "exited",
     "city": "paris", "season": "2",
     "pitch": "Pili Pop creates stimulating and engaging apps for youngsters to help them find the fun in learning languages.",
     "connect": {
@@ -1339,7 +1339,7 @@
   {
     "name": "Dabla",
     "website": "dabla.com",
-    "status": "active",
+    "status": "dead",
     "city": "paris", "season": "1",
     "pitch": "Dabla keeps you connected with your friends & family. Cross-device apps as easy to use as SMS and especially made for groups.",
     "connect": {
