@@ -95,18 +95,6 @@
         "twitter": "https://twitter.com/MeloflowMusic"
       }
     },
-      {
-      "name": "MonTransport.com",
-      "website": "montransport.com",
-      "status": "active",
-      "city": "paris", "season": "8",
-      "pitch": "monTransport.com is the marketplace for taxis, minicabs, coaches, limos and moto-taxis services in France.Find, compare and book a suited transport service at the best rate. Our 2 900+ affiliated transport providers will compete to transport you!",
-      "connect": {
-        "mail": "",
-        "facebook": "https://www.facebook.com/montransportcom/",
-        "twitter": "https://twitter.com/montransport"
-      }
-    },
  {
       "name": "Travauxlib",
       "website": "travauxlib.com",
@@ -350,7 +338,7 @@
           {
       "name": "Read",
       "website": "read.cx",
-      "status": "active",
+      "status": "dead",
       "city": "paris", "season": "7",
       "pitch": "We change the way people read, retain and work on written content on mobile. Today, readers enjoy our app to read their own ePub files. We then will make it easy to access and open every file that needs to be read on mobile. And from there, Read offers the best experience.",
       "connect": {
@@ -532,7 +520,7 @@
       {
         "name": "Sharette",
         "website": "sharette.fr",
-        "status": "active",
+        "status": "dead",
         "city": "paris", "season": "6",
         "pitch": "Active member of the collaborzative economy, Sharette is a market place dedicated to mobility in urban areas, combining short-distance carpooling with the existing network of public transports.",
         "connect": {
@@ -751,7 +739,7 @@
   {
     "name": "Hublo",
     "website": "hublo.com",
-    "status": "active",
+    "status": "dead",
     "city": "paris", "season": "5",
     "pitch": "Hublo allows marketers to set-up tracking for web analytics on their site visually and without relying on their tech teams.",
     "connect": {
