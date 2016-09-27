@@ -1435,5 +1435,40 @@
     "city": "paris", "season": "1",
     "pitch": "Zifiz provides a retail tool for consumers to purchase, or find nearby products in real-time.",
     "connect": {}
-  }
+  },
+  {
+      "name": “MySender",
+      "website": “mysender.ru",
+      "status": "active",
+      "city": “moscow", "season": “1",
+      "pitch": "MySender is a software that aggregates all communication channels (messengers, SMS) between companies and their clients.",
+      "connect": {
+        "mail": "info@mysender.ru",
+        "facebook": "",
+        "twitter": "https://twitter.com/MYSENDER1"
+      }
+    },
+ {
+      "name": "Bienvenue WiFi",
+      "website": "bienvenue-wifi.com",
+      "status": "active",
+      "city": “moscow", "season": "8",
+      "pitch": "QRepublik Lifeband is a non-electronic medical identidicator in a form of a wristband which fastly provides medical and contact information via dynamic QR-code.",
+      "connect": {
+        "mail": "qrepublik2014@gmail.com",
+        "facebook": "https://www.facebook.com/qrepublik/",
+        "twitter": "https://twitter.com/Qrepublik"
+      }
+    }, {
+      "name": "Bienvenue WiFi",
+      "website": "bienvenue-wifi.com",
+      "status": "active",
+      "city": “moscow", "season": "8",
+      "pitch": "Visitech is a software solutions specialize to improve industrial safety, Health, Safety, Environment (HSE) and Operational Excellence.",
+      "connect": {
+        "mail": "info@visitech.ru",
+        "facebook": "",
+        "twitter": "https://twitter.com/ISES_Visitech"
+      }
+    }
 ]
