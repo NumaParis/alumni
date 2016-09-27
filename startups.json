@@ -1661,5 +1661,65 @@
         "facebook": "https://www.facebook.com/bookmysawari/",
         "twitter": ""
       }
+    },
+{
+      "name": "Snail",
+      "website": "",
+      "status": "active",
+      "city": "casablanca", "season": "1",
+      "pitch": "AlArt is an online platform that hosts daily online auctions aiming to place new talent in the art market. AlArt offers fine, original pieces at competitive prices, as the artists are still relatively unknown. With each acquisition, the buyer is funding a young artist and their community.",
+      "connect": {
+        "mail": "barramouola@gmail.com",
+        "facebook": "",
+        "twitter": ""
+      }
+    },
+{
+      "name": "SanteV",
+      "website": "santev.ma",
+      "status": "active",
+      "city": "casablanca", "season": "1",
+      "pitch": "Canvazify is a strategic brainstorming platform for innovative teams. It comes with predefined strategic templates to help teams collect, share, and act on ideas to achieve productive innovation.",
+      "connect": {
+        "mail": "aminesebti@hotmail.com",
+        "facebook": "",
+        "twitter": "https://twitter.com/santevmaroc"
+      }
+    },
+    {
+      "name": "Fenna",
+      "website": "",
+      "status": "dead",
+      "city": "casablanca", "season": "1",
+      "pitch": "Courtside is bringing sports grounds to your mobile. Book a ground in a few clicks and let out a shout to your friends to join. We make planning a game fast, simple and 100% assured, so that you play more",
+      "connect": {
+        "mail": "hamza-amel@hotmail.com",
+        "facebook": "",
+        "twitter": ""
+      }
+    },
+    {
+      "name": "MyTrippy",
+      "website": "mytrippy.ma",
+      "status": "active",
+      "city": "casablanca", "season": "1",
+      "pitch": "FlippAR is an augmented reality application to point and buy things.FlippAR helps companies provide better customer experience because of its experience with customer service + technology integration. ",
+      "connect": {
+        "mail": "nizar@mytrippy.ma",
+        "facebook": "https://www.facebook.com/mytrippy/",
+        "twitter": ""
+      }
+    },
+    {
+      "name": "Dikrayat",
+      "website": "dikrayat.ma",
+      "status": "active",
+      "city": "casablanca", "season": "1",
+      "pitch": "Fullonshaadi is an aggregator and marketplace for wedding industry and aims to revolutionise the way Indian families do wedding planning and shopping. It is an end-to end solution that offers everything from vendor discovery, shortlisting, booking vendors online to sophisticated tools needed to organise the wedding.",
+      "connect": {
+        "mail": "julien@dikrayat.ma",
+        "facebook": "https://www.facebook.com/dikrayat.net/",
+        "twitter": ""
+      }
     }
 ]
