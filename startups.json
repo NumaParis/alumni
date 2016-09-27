@@ -1437,10 +1437,10 @@
     "connect": {}
   },
   {
-      "name": “MySender",
-      "website": “mysender.ru",
+      "name": "MySender",
+      "website": "mysender.ru",
       "status": "active",
-      "city": “moscow", "season": “1",
+      "city": "moscow", "season": "1",
       "pitch": "MySender is a software that aggregates all communication channels (messengers, SMS) between companies and their clients.",
       "connect": {
         "mail": "info@mysender.ru",
@@ -1449,10 +1449,10 @@
       }
     },
  {
-      "name": "Bienvenue WiFi",
-      "website": "bienvenue-wifi.com",
+      "name": "QRepublik",
+      "website": "http://qrepublik.ru",
       "status": "active",
-      "city": “moscow", "season": "8",
+      "city": "moscow", "season": "1",
       "pitch": "QRepublik Lifeband is a non-electronic medical identidicator in a form of a wristband which fastly provides medical and contact information via dynamic QR-code.",
       "connect": {
         "mail": "qrepublik2014@gmail.com",
@@ -1460,10 +1460,10 @@
         "twitter": "https://twitter.com/Qrepublik"
       }
     }, {
-      "name": "Bienvenue WiFi",
-      "website": "bienvenue-wifi.com",
+      "name": "Visitech",
+      "website": "http://visitech.ru",
       "status": "active",
-      "city": “moscow", "season": "8",
+      "city": "moscow", "season": "1",
       "pitch": "Visitech is a software solutions specialize to improve industrial safety, Health, Safety, Environment (HSE) and Operational Excellence.",
       "connect": {
         "mail": "info@visitech.ru",
