@@ -1470,5 +1470,196 @@
         "facebook": "",
         "twitter": "https://twitter.com/ISES_Visitech"
       }
+    },
+ {
+      "name": "1Plify",
+      "website": "1plify.com",
+      "status": "active",
+      "city": "bengaluru", "season": "1",
+      "pitch": "1Plify is a global admission portal that connects students directly to institutions of their choice around the world, with hundreds of courses to choose from.‎ 1Plify boasts itself as the new cool way to apply to Universities around the world.",
+      "connect": {
+        "mail": "oluwatobi.soyombo@gmail.com",
+        "facebook": "https://www.facebook.com/1Plify",
+        "twitter": "https://twitter.com/1plify"
+      }
+    },
+{
+      "name": "Canvazify",
+      "website": "canvazify.com",
+      "status": "active",
+      "city": "bengaluru", "season": "1",
+      "pitch": "Canvazify is a strategic brainstorming platform for innovative teams. It comes with predefined strategic templates to help teams collect, share, and act on ideas to achieve productive innovation.",
+      "connect": {
+        "mail": "abmhetre@gmail.com",
+        "facebook": "https://www.facebook.com/canvazify",
+        "twitter": "https://twitter.com/canvazify"
+      }
+    },
+    {
+      "name": "Courtside",
+      "website": "courtside.in",
+      "status": "dead",
+      "city": "bengaluru", "season": "1",
+      "pitch": "Courtside is bringing sports grounds to your mobile. Book a ground in a few clicks and let out a shout to your friends to join. We make planning a game fast, simple and 100% assured, so that you play more",
+      "connect": {
+        "mail": "msmdairkee@gmail.com",
+        "facebook": "",
+        "twitter": ""
+      }
+    },
+    {
+      "name": "FlippAR",
+      "website": "flippar.com",
+      "status": "active",
+      "city": "bengaluru", "season": "1",
+      "pitch": "FlippAR is an augmented reality application to point and buy things.FlippAR helps companies provide better customer experience because of its experience with customer service + technology integration. ",
+      "connect": {
+        "mail": "vivek@flippar.com",
+        "facebook": "https://www.facebook.com/flipparworld/",
+        "twitter": "https://twitter.com/flipparworld"
+      }
+    },
+    {
+      "name": "Full On Shaadi",
+      "website": "fullonshaadi.com",
+      "status": "active",
+      "city": "Fullonshaadi is an aggregator and marketplace for wedding industry and aims to revolutionise the way Indian families do wedding planning and shopping. It is an end-to end solution that offers everything from vendor discovery, shortlisting, booking vendors online to sophisticated tools needed to organise the wedding.",
+      "connect": {
+        "mail": "khushbu.jagwani7@gmail.com",
+        "facebook": "https://www.facebook.com/fullonwedding/",
+        "twitter": "https://twitter.com/fullonwedding"
+      }
+    },
+    {
+      "name": "Mens Room",
+      "website": "mensroom.co",
+      "status": "active",
+      "city": "bengaluru", "season": "1",
+      "pitch": "Fullonshaadi is an aggregator and marketplace for wedding industry and aims to revolutionise the way Indian families do wedding planning and shopping. It is an end-to end solution that offers everything from vendor discovery, shortlisting, booking vendors online to sophisticated tools needed to organise the wedding.",
+      "connect": {
+        "mail": "raj.muppa@gmail.com",
+        "facebook": "",
+        "twitter": ""
+      }
+    },
+    {
+      "name": "Najdik",
+      "website": "najdik.com",
+      "status": "dead",
+      "city": "bengaluru", "season": "1",
+      "pitch": "Najdik.com, helps south Indians get regional groceries, home delivered in Gurgaon. ",
+      "connect": {
+        "mail": "prahlad_be1@yahoo.com",
+        "facebook": "",
+        "twitter": ""
+      }
+    },
+    {
+      "name": "Piki Poll",
+      "website": "pikipoll.com",
+      "status": "active",
+      "city": "bengaluru", "season": "1",
+      "pitch": "Piki is a platform for rapid market research - it connects businesses to their target audiences and gets survey results in hours, allowing for exponentially faster business decisions backed by data.",
+      "connect": {
+        "mail": "indrayudh@pikipoll.com",
+        "facebook": "https://www.facebook.com/pikipoll/",
+        "twitter": "https://twitter.com/pikipoll"
+      }
+    },
+    {
+      "name": "Svadhin",
+      "website": "",
+      "status": "active",
+      "city": "bengaluru", "season": "1",
+      "pitch": "Svadhin provides independent living and fall prevention solutions to overcome accessibility challenges related to age, medical or physical conditions.",
+      "connect": {
+        "mail": "saylacon@gmail.com",
+        "facebook": "https://www.facebook.com/svadhinsolutions/",
+        "twitter": ""
+      }
+    },
+    {
+      "name": "Follow Class",
+      "website": "followclass.com",
+      "status": "active",
+      "city": "bengaluru", "season": "2",
+      "pitch": "A single platform to track all your academic activities.",
+      "connect": {
+        "mail": "contact@followclass.com",
+        "facebook": "https://www.facebook.com/followclass/",
+        "twitter": ""
+      }
+    },
+    {
+      "name": "Ideaphora",
+      "website": "ideaphora.com",
+      "status": "active",
+      "city": "bengaluru", "season": "2",
+      "pitch": "We combine a visual learning environment with data analytics for users to create personalized conceptual summaries of educational content",
+      "connect": {
+        "mail": "anil@ideaphora.com",
+        "facebook": "https://www.facebook.com/ideaphora/",
+        "twitter": ""
+      }
+    },
+    {
+      "name": "Repoto",
+      "website": "repoto.co",
+      "status": "active",
+      "city": "bengaluru", "season": "2",
+      "pitch": "A device agnostic hybrid App for Preschool management, Lesson plan preparation and automation of Daily Preschool Student Reporting",
+      "connect": {
+        "mail": "anil@ideaphora.com",
+        "facebook": "https://www.facebook.com/repoto/",
+        "twitter": ""
+      }
+    },
+    {
+      "name": "SpotPlay",
+      "website": "spotplay.co",
+      "status": "active",
+      "city": "bengaluru", "season": "2",
+      "pitch": "Free entertainment in travel when connected to SpotPlay Wi-Fi Hotspot",
+      "connect": {
+        "mail": "mvm.saikrishna@gmail.com",
+        "facebook": "",
+        "twitter": ""
+      }
+    },
+    {
+      "name": "Valmeeki Books",
+      "website": "walmeeki.com",
+      "status": "active",
+      "city": "bengaluru", "season": "2",
+      "pitch": "Valmeeki is a virtual publishing house that works with aspiring writers and publishes new works in the field of vernacular alt-lit",
+      "connect": {
+        "mail": "kuruvilla@valmeeki.com",
+        "facebook": "https://www.facebook.com/valmeekibookskannada/",
+        "twitter": ""
+      }
+    },
+    {
+      "name": "Wlend",
+      "website": "wlend.in",
+      "status": "active",
+      "city": "bengaluru", "season": "2",
+      "pitch": "wlend is an online product rental platform for travel and photography enthusiasts and a trusted community of verified users.",
+      "connect": {
+        "mail": "suraj@wlend.in",
+        "facebook": "https://www.facebook.com/profile.php?id=1000011611410029/",
+        "twitter": ""
+      }
+    },
+    {
+      "name": "BookMySawari",
+      "website": "bookmysawari.com",
+      "status": "active",
+      "city": "bengaluru", "season": "2",
+      "pitch": "Online cab booking aggregator aiming to standardise and bring predictability in the highly fragmented $9 Billion Intercity cab market.",
+      "connect": {
+        "mail": "akhilesh@bookmysawari.com",
+        "facebook": "https://www.facebook.com/bookmysawari/",
+        "twitter": ""
+      }
     }
 ]
