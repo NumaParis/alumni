@@ -1450,7 +1450,7 @@
     },
  {
       "name": "QRepublik",
-      "website": "http://qrepublik.ru",
+      "website": "qrepublik.ru",
       "status": "active",
       "city": "moscow", "season": "1",
       "pitch": "QRepublik Lifeband is a non-electronic medical identidicator in a form of a wristband which fastly provides medical and contact information via dynamic QR-code.",
@@ -1461,7 +1461,7 @@
       }
     }, {
       "name": "Visitech",
-      "website": "http://visitech.ru",
+      "website": "visitech.ru",
       "status": "active",
       "city": "moscow", "season": "1",
       "pitch": "Visitech is a software solutions specialize to improve industrial safety, Health, Safety, Environment (HSE) and Operational Excellence.",
