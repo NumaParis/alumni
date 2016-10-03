@@ -1578,96 +1578,12 @@
         "twitter": ""
       }
     },
-    {
-      "name": "Follow Class",
-      "website": "followclass.com",
-      "status": "active",
-      "city": "bengaluru", "season": "2",
-      "pitch": "A single platform to track all your academic activities.",
-      "connect": {
-        "mail": "contact@followclass.com",
-        "facebook": "https://www.facebook.com/followclass/",
-        "twitter": ""
-      }
-    },
-    {
-      "name": "Ideaphora",
-      "website": "ideaphora.com",
-      "status": "active",
-      "city": "bengaluru", "season": "2",
-      "pitch": "We combine a visual learning environment with data analytics for users to create personalized conceptual summaries of educational content",
-      "connect": {
-        "mail": "anil@ideaphora.com",
-        "facebook": "https://www.facebook.com/ideaphora/",
-        "twitter": ""
-      }
-    },
-    {
-      "name": "Repoto",
-      "website": "repoto.co",
-      "status": "active",
-      "city": "bengaluru", "season": "2",
-      "pitch": "A device agnostic hybrid App for Preschool management, Lesson plan preparation and automation of Daily Preschool Student Reporting",
-      "connect": {
-        "mail": "anil@ideaphora.com",
-        "facebook": "https://www.facebook.com/repoto/",
-        "twitter": ""
-      }
-    },
-    {
-      "name": "SpotPlay",
-      "website": "spotplay.co",
-      "status": "active",
-      "city": "bengaluru", "season": "2",
-      "pitch": "Free entertainment in travel when connected to SpotPlay Wi-Fi Hotspot",
-      "connect": {
-        "mail": "mvm.saikrishna@gmail.com",
-        "facebook": "",
-        "twitter": ""
-      }
-    },
-    {
-      "name": "Valmeeki Books",
-      "website": "walmeeki.com",
-      "status": "active",
-      "city": "bengaluru", "season": "2",
-      "pitch": "Valmeeki is a virtual publishing house that works with aspiring writers and publishes new works in the field of vernacular alt-lit",
-      "connect": {
-        "mail": "kuruvilla@valmeeki.com",
-        "facebook": "https://www.facebook.com/valmeekibookskannada/",
-        "twitter": ""
-      }
-    },
-    {
-      "name": "Wlend",
-      "website": "wlend.in",
-      "status": "active",
-      "city": "bengaluru", "season": "2",
-      "pitch": "wlend is an online product rental platform for travel and photography enthusiasts and a trusted community of verified users.",
-      "connect": {
-        "mail": "suraj@wlend.in",
-        "facebook": "https://www.facebook.com/profile.php?id=1000011611410029/",
-        "twitter": ""
-      }
-    },
-    {
-      "name": "BookMySawari",
-      "website": "bookmysawari.com",
-      "status": "active",
-      "city": "bengaluru", "season": "2",
-      "pitch": "Online cab booking aggregator aiming to standardise and bring predictability in the highly fragmented $9 Billion Intercity cab market.",
-      "connect": {
-        "mail": "akhilesh@bookmysawari.com",
-        "facebook": "https://www.facebook.com/bookmysawari/",
-        "twitter": ""
-      }
-    },
 {
       "name": "Snail",
       "website": "",
       "status": "active",
       "city": "casablanca", "season": "1",
-      "pitch": "AlArt is an online platform that hosts daily online auctions aiming to place new talent in the art market. AlArt offers fine, original pieces at competitive prices, as the artists are still relatively unknown. With each acquisition, the buyer is funding a young artist and their community.",
+      "pitch": "Socio economic integration of women in rural areas and preservation of endemic snail species through the farming and commercialization of snail in Morocco.",
       "connect": {
         "mail": "barramouola@gmail.com",
         "facebook": "",
@@ -1679,7 +1595,7 @@
       "website": "santev.ma",
       "status": "active",
       "city": "casablanca", "season": "1",
-      "pitch": "Canvazify is a strategic brainstorming platform for innovative teams. It comes with predefined strategic templates to help teams collect, share, and act on ideas to achieve productive innovation.",
+      "pitch": "SanteV is a Channel broadcasting educational and entertaining audiovisual content on TVs in Moroccan doctors waiting rooms.",
       "connect": {
         "mail": "aminesebti@hotmail.com",
         "facebook": "",
@@ -1689,9 +1605,9 @@
     {
       "name": "Fenna",
       "website": "",
-      "status": "dead",
+      "status": "active",
       "city": "casablanca", "season": "1",
-      "pitch": "Courtside is bringing sports grounds to your mobile. Book a ground in a few clicks and let out a shout to your friends to join. We make planning a game fast, simple and 100% assured, so that you play more",
+      "pitch": "Social economic integration of women in peri urban areas through the crafting of recycled-material based dolls tracing Morocco's historical traditional fashion through the ages.",
       "connect": {
         "mail": "hamza-amel@hotmail.com",
         "facebook": "",
@@ -1701,9 +1617,9 @@
     {
       "name": "MyTrippy",
       "website": "mytrippy.ma",
-      "status": "active",
+      "status": "dead",
       "city": "casablanca", "season": "1",
-      "pitch": "FlippAR is an augmented reality application to point and buy things.FlippAR helps companies provide better customer experience because of its experience with customer service + technology integration. ",
+      "pitch": "Platform connecting travelers and offering unique traveling experience packages in Morocco.",
       "connect": {
         "mail": "nizar@mytrippy.ma",
         "facebook": "https://www.facebook.com/mytrippy/",
@@ -1715,7 +1631,7 @@
       "website": "dikrayat.ma",
       "status": "active",
       "city": "casablanca", "season": "1",
-      "pitch": "Fullonshaadi is an aggregator and marketplace for wedding industry and aims to revolutionise the way Indian families do wedding planning and shopping. It is an end-to end solution that offers everything from vendor discovery, shortlisting, booking vendors online to sophisticated tools needed to organise the wedding.",
+      "pitch": "Printing and delivery serice of photo based souvenirs using creative formats.",
       "connect": {
         "mail": "julien@dikrayat.ma",
         "facebook": "https://www.facebook.com/dikrayat.net/",
